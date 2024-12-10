@@ -1,0 +1,2770 @@
+# AUDIO RECORDING: DIVE 002
+
+This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the second attempted dive.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26972 |  30   | -140  |
+
+# AUDIO RECORDING: DIVE 006
+
+This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the sixth dive. It establishes that Tethlaen entered the Nothing of his own will, as he felt that he would only be able to hold the tear closed from the inside, protecting the realm of Drehmal.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26935 |   2   | -109  |
+
+# AUDIO RECORDING: DIVE 027
+
+This book can be found in a chest in the [[Resonant Halls]]. It is a transcription of a conversation between [[Orix Cehein]] and [[Tethlaen]] through the Resonant Eye, from the 27th attempted dive. At this point, the two appear to have developed a strong rapport, and Tethlaen informs Orix that if at some point he is no longer able to hold the tear closed, primal energy will leak from the Nothing into Drehmal, causing the inevitable destruction of the realm.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26940 |  58   |  16   |
+
+# A Bridge to Prosperity?
+
+This book can be found in a chest in the ruins of the town of Espinor, in the [[South Heartwood]], at the western end of the ruined bridge between that region and the [[Black Jungle]]. Within, a merchant hopes that this newly built bridge will help them become wealthy by trading with the [[Tidal Dynasty]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2650  |  113  | 3930  |
+
+# A brief Overview of Avsohmic Art History
+
+This book can be found on a lectern, in a building on an island off the east coast of the [[Frozen Bite]]. Over 33 in-game pages, it provides a (not-so-brief) overview of the history of art in the Avsohmic Empire, including the different movements influenced by different rulers, as well as discussing multiple different mediums.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 6365  |  100  | -3002 |
+
+# A Brief Overview of Avsohmic Art History
+
+This book can be found on a lectern, in a building on an island off the east coast of the [[Frozen Bite]]. Over 33 in-game pages, it provides a (not-so-brief) overview of the history of art in the Avsohmic Empire, including the different movements influenced by different rulers, as well as discussing multiple different mediums.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 6365  |  100  | -3002 |
+
+# A Cozy Nook
+
+This book can be found in a chest in [[Merijool]], beneath a sacred flame just to the west of the [[Shrine of Eternal Flame]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1625 |  117  | -1641 |
+
+# A Desperate Gambit
+
+This book can be found in a chest in the library at [[Highfall]]. Allegedly based on a true story, it describes the destruction of the people of [[Fortahn]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5969  |  76   | -1076 |
+
+# A Divine Pet Project
+
+This book can be found on a lectern, at the top of the [[Mihkmari]]-inhabited tower in the [[Verdant Labyrinth]] region. It contains lore on the aspects, including [[Khive]] and [[Tethlaen]], as well as rumination on the origins of [[Mt. Yavhlix]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3319  |  165  | 2669  |
+
+# A Hard-Won Victory?
+
+This book can be found in a chest in the [[Rehntite Cave]]. It describes some of the fallout of the first major event that unfolded at the [[Primary Energy Collection Facility]], establishing that only five survived that initial incident, three of whom seemed to have been broken mentally by the ordeal.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1658  |   6   | -2760 |
+
+# A Need for Seeds
+
+This book can be found in a chest in [[Loraga Keep]], and provides insight as to what happened to the inhabitants of this castle, who planted some kind of seeds in themselves and subsequently were driven mad.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1726 |  157  | 3033  |
+
+# A Northern Excursion
+
+This book can be found in a chest in the Casain Residences of [[Dusps]]. It references the large Avsohmic pipes found in the northern portion of [[Akhlo'Rohma]], and the author resolves to follow them to their origin to the north.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2142  |  117  | -831  |
+
+# A Retrospective
+
+This book can be found in a chest in [[Caer Adacia]]. Written by [[Thresa Vera]], it recounts the majority of her life up to her early adulthood over the course of 46 in-game pages, from her origins as a noblewoman to her time at the university of [[Av'Sal]]. Particular focus is given to her friendship with [[Baen Vehmil]] and [[Gohri Zed]], eventually forming a romantic relationship with the latter.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1267 |  49   |  478  |
+
+# Abbot Balthysar's Notes
+
+This book can be found in an item frame in Abbot Balthysar's quarters at [[Teiruun Monastery]], with the Abbot expressing the desire to ascend beyond the level of the [[Virmari]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 5589.5 |  215  | 2990.5 |
+
+# About the Mountain of Holes
+
+This book can be found in a chest in northwestern [[Av'Sal]]. Poetically, it tells the story of the discovery, conquest, and exploitation of [[Mt. Yavhlix]] by [[Avsohm]], ending on an ominous note.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -399  |  107  | 1461  |
+
+# Activity Log - Project Panopticon
+
+This book can be found in a shulker box in the [[Resonant Halls]]. It describes the process of establishing contact with [[Tethlaen]] through the Resonant Eye, as written by [[Orix Cehein]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26897 |  77   |  -39  |
+
+# Airships of Drehmal
+
+This book can be found in a chest in the [[Insohmic Library]]. It documents the use of airships in Av3, from their rediscovery in Av3 509 by the [[Insohm|Order of Insohm]] to their use in warfare, as well as information about some notable airships.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4546  |  100  | 1582  |
+
+# An Archaeological Tragedy
+
+This book can be found in a chest at the Frontier's Edge Gift Shop in [[Grand Pike Canyon]]. It discusses the looting of historical sites in the [[Veruhkt Plateau]] and the consequent loss of archaeological information.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4129  |  51   | -530  |
+
+# An Elegy to Pain
+
+This book can be found in a chest in a small structure beneath the [[Emperor's Estate]], addressed to [[Maen]], Aspect of Pain.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5037  |  112  | 6348  |
+
+# An Unusual Order
+
+This book can be found in a chest by the Runic Blacksmith in [[Mohta]]. It describes a custom order for a set of gear for a caravan escort who is planning to travel from Mohta to [[Firteid]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -13  |  70   | 5256  |
+
+# Ancient_Diary
+
+This book can be found in a chest in [[Fort Nimahj]]. It contains a first-hand account of [[Maelihs]]' invasion of [[Sal'Anyr]] in Av2 1820, the event that functionally marked the collapse of [[Avsohm]], and with it, the end of the Second Avihm.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1712 |  151  | 1885  |
+
+# Ancient Earthen Text
+
+This book can be found in an item frame in the ruins of [[Wokonori]], the sacred place of the Land-fall Drake [[Taihgel]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for Taihgel.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 4279.5 |  30   | -926.5 |
+
+# Ancient Sacrament
+
+This book can be found in a chest within a small structure directly off the path in [[Lorahn'Kahl]] between the [[Whale's Tale]] and [[Mohta]], alongside the Lorahn Sacrificial Blade Artifact. Its text calls upon the three moons of Drehmal in a necromantic rite, referencing the traditions of necromancy in the Lorahn'Kahl region.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -108  |  67   | 4802  |
+
+# Archaic Transcript
+
+This book is discovered in a chest in the ruins of [[Sal'Anyr]], written by a thief who was able to eavesdrop on [[Maelihs]] and his officers and overheard his plans to deploy the Skullmother and destroy the Southern Heartwood, creating the region known as [[South Heartwood|Mael's Desolation]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3349 |  137  | 2257  |
+
+# Auxiliary Vahn's Concern
+
+This book can be found on a lectern atop the [[Insohmic Library]]. Its author writes that the Insohmic attempt to re-open [[Mt. Yavhlix]]'s gate has failed, and wonders how to break the news to [[Vahid|Master Vahid]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4549  |  124  | 1591  |
+
+# Av2 1360 - Prisoners
+
+This book can be found in a chest in the [[Black Jungle Library|Sahdan Monastery]], and shows that the people of [[Sahd]] began sending their criminals across the sea to the Black Jungle after the collapse of the Empire of Vir.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4813  |  125  | 4571  |
+
+# Av2 1753 - Envoys
+
+This book can be found in a chest in the [[Black Jungle Library|Sahdan Monastery]], shining light on a conflict between [[Sahd]] and the [[Tidal Dynasty]] that led to Sahd's furthered isolation from the mainland.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4793  |  123  | 4562  |
+
+# Av3 902 - Time Immemorial
+
+This book can be found on a lectern atop the [[Burnt Palace]]. Written by [[Maelihs]] after he went to [[Western Xivrhynt]], it hints at a secret about the origins of himself and [[Virtuo]] told to him by [[Khive]], implying that two groups called the Maelruhn and Viruhn were driving forces in making these two deities into who they are.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3984 |  138  | 5946  |
+
+# Av3 903 - Sister
+
+This book can be found in a chest atop the [[Burnt Palace]]. Written by [[Maelihs]], it documents his guilt over his treatment of [[Virtuo]] after her departure from the continent.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -4006 |  139  | 5972  |
+
+# Av4 12 - A Monument to All My Sins
+
+This book can be found in a chest atop the [[Burnt Palace]]. The book, written by [[Maelihs]], contains his decision in Av4 12 to leave Drehmal behind and reside in [[Ytaj]] indefinitely, stricken by guilt over what he has done.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3990 |  140  | 5967  |
+
+# Avsohm's Ruse
+
+This book can be found on a lectern in [[Ancehl Castle]]. Its contents are an allegation that Avsohm fabricated the three schools of Alchemy, when in fact, they are all one. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books, in which each of the books must be turned to the page that contains their respective passage in the memo.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1525  |  141  | -1971 |
+
+# BIG News!
+
+This book can be found in a chest in [[Tharxax City]], written by a traveler looking for some of the biggest features on the continent. The book compares the walls of [[Rhaveloth]] to the great wall of [[Maehrn'Vhos]], and ends with the goal of visiting [[Akhlo'Rohma]] to see the megaflora of the region.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2136 |  65   | 3638  |
+
+# Behold, Starrise Bastion
+
+This book can be found in a chest in the [[Star-Rise Bastion]] on the [[Island of Dawn]]. It shows that the current inhabitants of the bastion were formerly [[Virmari]], but dedicated themselves to [[Rihelma]] after the disappearance of [[Virtuo]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -940  |  195  | -4139 |
+
+# Betrayal
+
+This book can be found in a chest in [[Rhaveloth]]. A [[Maelmari]] citizen of the town suspects that a [[Drehmari]] woodworker living in the city has stolen their golden carrot, but ultimately decides not to immediately turn them in to the guards.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2931 |  90   | 5246  |
+
+# Bloodwritten Curse
+
+This book can be found in an item frame in Zovan, at the eastern end of the ruined bridge between the [[South Heartwood]] and [[Black Jungle|The Black Jungle]], seemingly written by a citizen of the [[Tidal Dynasty]] cursing the Gozaki and [[Insohm]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 2963.5 |  104  | 3941.5 |
+
+# Blue, Red, and Green
+
+This book can be found in a chest in the [[Exodus Citadel]], and describes the beginning of [[Blue Exodus]]'s official relationship with the [[Avsohm|Empire of Avsohm]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2612 |  76   | 2304  |
+
+# Brewmaster Ga'ran's Diary
+
+This book can be found on a lectern in [[Shivering Pines Inn]]. It details the recent history of the two owners of Shivering Pines Inn, Ga'ran and Elmlhi, painting a picture of their life together after founding the inn.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4884  |  113  | -3361 |
+
+# Bryde's Warning
+
+This book can be found in a chest in a cave just southwest of the [[Capital Valley]] Tower, detailing the harrowing experience of another traveler who stayed the night in this cave and warning the reader not to attempt to do the same.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  454  |  73   | 1252  |
+
+# Burnt Generals' Orders
+
+This book can be found in a chest near the top of the [[Burnt Palace]]. It is written by Tevus, the second [[Burnt Generals|Burnt General]], and contains the current assignments of the three Burnt Generals, informing the player on where they can be found.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3996 |  123  | 5959  |
+
+# Burnt Notes
+
+This book can be found in a chest in the ruins of [[Sal'Anyr]], written by a citizen disparaging the rule of the newly-anointed Emperor [[Anyr]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3352 |  137  | 2197  |
+
+# Busy Bees, Busy Hands!
+
+This book can be found in an item frame in the [[Temple of Bloom and Bough]] in [[Marahza]]. It is not a writable book, but rather serves to provide hints as to the accepted [[Devotion]] gifts for [[Vayniklah]].
+
+## Coordinates
+| **X**  | **Y** | **Z** |
+| :----: | :---: | :---: |
+| 2312.5 |  75   | -1609 |
+
+# Call to the Clan
+
+This book can be found in an item frame in [[Faehrcyle]].
+
+## Coordinates
+| **X**  | **Y** |  **Z**  |
+| :----: | :---: | :-----: |
+| 3094.5 |  83   | -2616.5 |
+
+# Chaotic Ramblings
+
+This book can be found in a chest on the upper floor of the house at 53 Briar Street in [[Tharxax City]], written by a Drehmari lamenting their current situation under the rule of [[Maelihs]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2221 |  70   | 3664  |
+
+# Child's Journal
+
+This book can be found in a chest in southern [[Av'Sal]]. It contains a child's account of their father being promoted to a new, higher-ranking job within the Avsohmic government, but consequently not being able to return home until the day of the empire's fall.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -174  |  69   | 1915  |
+
+# Commoner's Diary
+
+This book can be found in a chest in [[Xor'Huul]]. It paints a picture of the final days of the kingdom of Xor'Huul, after a mysterious plague began to quickly kill off the city's priests. This caused the nobles to attempt to barricade themselves in, resulting in a clash between the commoners and nobility that killed off the entirety of the city's population through direct conflict or infection.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1152 |  57   | -4107 |
+
+# Contact with Dusk
+
+This book can be found in a chest, in the house in [[Ebonrun]] nearest to the fenced-off tunnel. It hints at the location of a mine on the [[Island of Dusk]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2975 |  144  | -161  |
+
+# Convictions of Tech-Priest Lakeivaa
+
+This book can be found in a chest at the [[Altar of Insight]]. Written by a parent of [[Gohri Zed]], the book explains that the people of [[Veruhkt Plateau]] worshipped and sought ascension to the moon of [[Lo'Veruhkt]], which sits beneath the planet and is therefore seldom seen. It also reveals that Gohri's birth name is Gorui, and that she was sent by her people to study runic magic in [[Av'Sal]] to help them escape to the moon, but stopped communicating with her family after falling in love with [[Thresa Vera]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4109  |  108  | -1524 |
+
+# Cooling Systems
+
+This book can be found in a chest in the [[Primary Energy Collection Facility]]. It elaborates on the need for a cooling system in the [[Primary Energy Collection Facility]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26873 |  71   |  -54  |
+
+# Councilman's Fears
+
+This book can be found on a lectern at the Insohmic [[Coven of Potentia]], reacting to the disappearance of [[Castle Hovadchear]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 6025  |  93   | 1529  |
+
+# Coveter's Journal
+
+This book can be found in a chest at sea level in southwestern [[Av'Sal]], north-northeast of the large statue, showing that commoners were not allowed onto the main central island of the city.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -401  |  67   | 1571  |
+
+# Creation of the Vaults
+
+This book can be found in a chest in the [[Avsohmic Vault]], on an island off the west coast of [[Casai]]. It details the beginning of these very vaults' construction under Emperor Ifeihl.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3689 |  78   | -1192 |
+
+# Creature of Nothing
+
+This book can be located in a chest in the [[Nihilist's Cabin]] in the [[Frozen Bite]] region.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5823  |  69   | -2987 |
+
+# Credits
+
+!!! note "This book is not a part of the in-universe lore."
+
+Not to be confused with the [[endcredits_transcription.md|end credits of the map, which lists out all the developers of Drehmal]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1703 |  163  | 3015  |
+
+This book can be found in a chest in [[Loraga Keep]]. It is written by Pogoshark, the builder of Loraga Keep, which was implemented into the map as part of a community build contest.
+
+# Creed of the Order of Astorahn
+
+This book can be found in an item frame at the Astorahnni Tower in the northwestern [[Gulf of Drehmal]] region, near the eastern edge of [[Merijool]]. It is written by a member of the Order of Astorahn, seemingly a banished sect of the devotees of [[Lai]] in Merijool.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| -172.5 |  180  | -564.5 |
+
+# Creed of the Ordered Flame
+
+This book can be found on a lectern in the ruins of Old Mossfield.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4365  |  109  | 1614  |
+
+# Crumpled Notes
+
+This book can be found in a chest in the [[Emperor's Estate]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5132  |  148  | 6285  |
+
+# Cryptic Ode
+
+This book can be found in a chest in the [[Temple of Dahroehl]] in [[Anyr'Nogur]]. It provides a series of hints pertaining to hidden items within the temple it is found in.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3668 |  48   | 1994  |
+
+# Cryptozoologist's Notes
+
+This book can be found in a chest on the far northeastern coast of [[Faehrcyle]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4169  |  64   | -4055 |
+
+# Crystalline Refractions
+
+This book can be found in an item frame in the [[Star-Rise Bastion]] on the [[Island of Dawn]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Rihelma]].
+
+## Coordinates
+| **X**  | **Y** |  **Z**  |
+| :----: | :---: | :-----: |
+| -969.5 |  195  | -4138.5 |
+
+# Curious Cavern
+
+This book can be found in a chest in [[Highfall]], and describes a trip through [[Akhlo'Rohma]] in which a Drehmari stumbled across the entrance to the [[Rehntite Cave]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5968  |  77   | -1136 |
+
+# Cursed Revelation
+
+This book can be found in a chest in the southern tower of the [[Emperor's Estate]], providing the revelation that the immortal guardians in the palace are, in fact, bandits who had been attempting to infiltrate the palace.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5099  |  196  | 6414  |
+
+# Dahroc's Notes
+
+This book can be found in a chest at the [[Burnt Palace]]. It documents the mental state of [[Maelihs]] during his war against [[Insohm]], as he orders his army not to deploy the Skullmother and ends up personally setting her free rather than using her as a weapon again.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -4015 |  60   | 5941  |
+
+# Dangerous Power
+
+This book can be found in a chest in the [[Avsohmic Vault]] on an island off the west coast of [[Casai]]. Its author states that they have written to [[Anyr|Emperor Anyr]] to request the immediate cessation of operations at Mt. Yavhlix due to concerns over the location's safety.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3691 |  82   | -1206 |
+
+# Dear Aok
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -504  |  65   | 4952  |
+
+# Debate Notes
+
+This book can be found in a chest in southern [[Av'Sal]]. It contains a reflection on a debate between four Drehmari (likely children) about religion, in which the author comes to believe that [[Anyr]] may possess a fragment of the spirit of [[Drehmal]] due to his perceived ability to cover great distances nearly instantly (very likely by utilizing the [[Terminus]]).
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -252  |  68   | 1872  |
+
+# Departure
+
+This book can be found on a lectern in [[Morah]]. It describes a resident of Morah's decision to finally leave the village and pursue The Path, becoming a religious pilgrim in old age.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4517  |  148  | 5576  |
+
+# Diahn's Woes
+
+This book can be found in a chest in [[Marahza]]. Found in a house divided down the middle, with one red half growing plants on carnelian nylium and the other blue half growing plants on aventurine nylium, the book tells how this came to be, with the author and her husband disagreeing on which to cultivate and decorate with.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2266  |  76   | -1592 |
+
+# Diary of Devro Ihb
+
+This book can be found on a lectern in [[Port Solitude]]. Written by [[Devro Ihb]], it comes before Ihb was offered a position within the [[Avsohm|Avsohmic government]] as a fighter pilot.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1840  |  74   | 4272  |
+
+# Diary of a Baffled Sailor
+
+This book can be found in a chest along the fjords of [[Palisades Heath]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  265  |  112  | 2709  |
+
+# Diary of a Concerned Mother
+
+This book can be found on a lectern in northeastern [[Av'Sal]], written by a concerned woman whose family is squatting in the ruins of the former Avsohmic capital, fearing that the [[Mihkmari]] will find them.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -168  |  91   | 1411  |
+
+# Diary of a Lai Devotee
+
+This book can be found in a chest in a small house just north of the [[Faehrcyle]] Tower.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2629  |  99   | -3439 |
+
+# Diary of a Star-Kin
+
+This book can be found in an item frame in the [[Star-Rise Bastion]] on the [[Island of Dawn]]. It describes the last time that one of the Star-Kin saw their idol, the aspect [[Rihelma]], as she left for Lo'Veruhkt, with the intent of never returning to Drehmal.
+
+## Coordinates
+| **X**  | **Y** |  **Z**  |
+| :----: | :---: | :-----: |
+| -967.5 |  190  | -4143.5 |
+
+# Diary of an Insane Alchemist
+
+This book can be found in a chest in the [[Skeveraan Laboratory]] in southwest [[Spearhead Forest]], written by the insane alchemist who inhabits the building and presumably kidnapped many of the residents of [[Helmshire]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3140  |  42   | 1272  |
+
+# Diary of the Tree-Maris
+
+This book can be found in a chest atop a treehouse in western [[Lorahn'Kahl]], and tells the story of the people who inhabited it as they realized they were surrounded by monsters.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1332 |  127  | 5563  |
+
+# Disciple's Log
+
+This book can be found in an item frame, at the bottom of a deep cavern in the [[Birthing Grounds]], and describes an obsessive disciple's arrival at the site, as well as an attempted ritual to summon a Bonechild. This disciple can be inferred to be [[Ossein]].
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -2249.5 |   7   | 5583.5 |
+
+# Dreams of Fear
+
+This book can be found on a lectern atop the Cult of Fear's Tower, in [[The Frozen Bite]]. It describes [[Tethlaen]], the Aspect of Fear, speaking to a devotee in dreams.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4621  |  75   | -2812 |
+
+# Duchess's Diary
+
+This book can be found on a lectern in [[Ancehl Castle]]. Written by the young Duchess Cerice of Ancehl, it suggests that a doll given to her by Ehzar is somehow able to cry.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1503  |  175  | -1934 |
+
+# Duke Duruis's Reflections
+
+This book can be found on a lectern in [[Ancehl Castle]]. It contains a reflection from the Duke of Ancehl, the de facto leader of the [[Akhlo'Rohma]] region, and how a tomb raider named Ehzar became his most trusted advisor.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1507  |  169  | -1947 |
+
+# Dusty Tome
+
+This book can be found on a lectern in [[Teiruun Monastery]]. It contains the writing of an alchemist named [[Akim]] who claims to have completed the [[Great Work]], and seeks even further power by ascending to the final Sixth Sphere.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5556  |  202  | 2972  |
+
+# Ealdorman's Journal
+
+This book can be found in a chest in [[New Elvett]]. It is written by a local ealdorman, frustrated at a young man developing an interest for the massive Avsohmic bridge over their town and suggesting there is nothing there.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3154 |  64   | 1322  |
+
+# Ecological Disaster Report
+
+This book can be found in a chest in [[Sal'Mevir]]. Written by [[Zevve Kai]], this book details the fallout of the [[Frostfang Catastrophe]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2389  |  145  | 1183  |
+
+# Ehrudei's Teachings
+
+This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. This parable teaches the Drehmari to take pride in their work, no matter how small it may feel, and to pursue their own passions as well as their work.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -94  |  164  | 2811  |
+
+# Elderly Citizen's Diary
+
+This book can be found in a chest in northeastern [[Av'Sal]]. Written by an elderly Drehmari woman, it recounts her time working on the flagship of Avsohm, the [[Aphelion]], and her ultimate dismissal from the project which led to her working in a bakery and meeting her husband.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -146  |  89   | 1482  |
+
+# Energy Cascade Achieved
+
+This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3175.5 |  88   | 3254.5 |
+
+# Eta's Journal
+
+This book can be found in a chest in the far north of [[Frozen Bite| The Frozen Bite]]. It was written by an alchemist in search of a [[Runic Catalyst]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5010  |  87   | -3955 |
+
+# Evacuation Orders
+
+This book can be found in a chest in the [[Primary Energy Collection Facility]], written by [[Orix Cehein]] to all staff at the facility.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26901 |  121  | -141  |
+
+# Expedition Notes
+
+This book can be found in a chest in a gatehouse on the road from [[Highfall Tundra]] to [[Faehrcyle]]. It is written by the [[Mihkmari]] inhabitants of the gatehouse, who were preparing to venture west into Faehrcyle in search of treasure.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5097  |  75   | -2396 |
+
+# Expedition Team Log
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -3971.5 |  120  | 1613.5 |
+
+# Explorer's Guide
+
+The book can be found in a small camp on the road between the [[Primal Caverns]] and The Village of [[Drabyel]]. It serves as a guide to the player for early game exploration, providing a short description of four regions that neighbor the [[Capital Valley]] region.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  581  |  81   | 1501  |
+
+# Fear Was Once Noble
+
+This book can be found in a chest in [[Faehrcyle]]. It portrays fear as a necessary emotion that protects people from danger, as well as characterizing the actions of [[Tethlaen]], Aspect of Fear, as heroic and protective.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2427  |  80   | -3473 |
+
+# Feelings on Forgetting Feelings
+
+This book can be found on a lectern, in a building on an island off the eastern coast of The [[Frozen Bite]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 6365  |  100  | -3012 |
+
+# Fern's Ramblings
+
+This book can be found on a lectern in [[Mossfield]]. It contains the writing of a worried old teacher, who establishes that multiple young residents of the town have gone on pilgrimages and not returned, causing her to be concerned about [[Juniper's Journal|Juniper Quarryman's journey with her sickly younger brother]] to [[Teiruun Monastery]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4170  |  65   | 1718  |
+
+# Final Activation
+
+This book can be found in an item frame in the Divination Facility at the [[KIln of Virtuo]], and appears to have been written around the time of the fall of Avsohm.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3171.5 |  88   | 3259.5 |
+
+# Final Thoughts
+
+This book can be found in an item frame in a small house just outside of the [[Mt. Yavhlix]] region.
+
+## Coordinates
+| **X**  | **Y** |  **Z**  |
+| :----: | :---: | :-----: |
+| 2344.5 |  66   | -3979.5 |
+
+# Flamestoker Ghulak's Sermon
+
+This book can be found on a lectern in [[Rhaveloth]]. The sermon within draws the connections between [[Maelihs]] and [[Lai|Brightwyrm Lai]], making clear that the [[Maelmari]] consider the latter an ally to their cause, also worthy of worship.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2801 |  70   | 5265  |
+
+# Forbidden Bones
+
+This book can be found in a chest beneath a hidden trapdoor in Ohmswil's Emporium, just outside [[Tharxax City]]. It discusses the power stored within the bones of arcanists, which can be incredibly valuable to other magic-users.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2158 |  73   | 3784  |
+
+# Four Directions
+
+This book can be found on a lectern in a ruined building just west of [[Sal'Lorahn]]. It references the four cardinal directions, each representing something relative to Sal'Lorahn. To the north of this ruined city lied the majority of the other governments of Drehmal, predominantly Tharhan kingdoms and Avsohm. The moon of [[Lo'Dahr]] lies in the southern sky. The "hidden sanctuary" to the east references the [[Moonlight Sanctum]]. "Canyons marked by dancing flame" to the west likely reference the [[Crimson Gorge]] or other parts of [[The Carmine]], possibly the [[Birthing Grounds]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1264 |  90   | 5282  |
+
+# Frozen Hymn
+
+This book can be found on a lectern in a small chapel in [[Faehrcyle]]. It is a hymn written to the minor Aspect [[Loeleyhn]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2035  |  72   | -3031 |
+
+# Getting Warmer
+
+This book can be found in an item frame at the [[Shrine of Eternal Flame]] in [[Merijool]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Lai]].
+
+## Coordinates
+|  **X**  | **Y** |  **Z**  |
+| :-----: | :---: | :-----: |
+| -1428.5 |  85   | -1639.5 |
+
+# Gokoh's Victory Lap
+
+This book can be found in a chest in the [[Exodus Vault]], with a Blue Exodus Sergeant gloating about their colossal weapons being used on the [[Aphelion]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2677 |  33   | 2258  |
+
+# Graduate's Diary
+
+This book can be found on a lectern in the ruined university at [[Av'Sal]]. Within, a graduate defends their thesis to Avsohmic officials, and is offered high-level positions within the Avsohmic government.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -341  |  110  | 1836  |
+
+# Greeting Death
+
+This book can be found in an item frame at the [[Perishing Well]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Voynahla]].
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -3143.5 |  87   | -984.5 |
+
+# Grim Notice
+
+This book can be found on a lectern within the ruins of [[Eloa]]. A letter written from sibling to sibling, it informs Serosin, the sister living in Eloa, of her father's death. The letter states that he was found disheveled and emaciated in the middle of the road, and refused to eat anything for fear of poison, dying of starvation back home at [[Mossfield]]. This is likely connected to the [[Skeveraan Laboratory]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -719  |  71   | 4605  |
+
+# Growing Fear
+
+This book can be found in a chest at Esipelli Vineyard in western [[Akhlo'Rohma]]. It describes a [[Casai|Casain]] author's experience moving to Akhlo'Rohma and facing significant racial prejudice in [[Dusps]], culminating in his choice to return to Casai after a Casain was scapegoated and lynched in Dusps for a crime he did not commit.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1648  |  92   | -1359 |
+
+# Grunt's Diary
+
+This book can be found in a chest at a small camp on the northern island of the Shattered Peninsula. It is written by a [[Maelmari]] grunt part of the expedition to locate the [[Coven of Potentia]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5863  |  79   | 1583  |
+
+# Hastily-Left Message
+
+This book can be found in an item frame in the [[Temple of Dahroehl]] in [[Anyr'Nogur]], next to a player head, and provides a clue as to the location of the [[Cryptic Ode]] book in that same location.
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -3628.5 |  37   | 1997.5 |
+
+# Heixueh's Teachings
+
+This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. In this book, Drehmal confronts a bandit who is about to rob a [[Virmari]] traveler, preventing them from doing so and leading them from a life of crime to a life of righteousness as a devotee of the Final Aspect.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -94  |  164  | 2807  |
+
+# Hi!
+
+This book can be found in a chest in [[Rhaveloth]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2875 |  73   | 5256  |
+
+# History of Teiruun
+
+This book can be found on a lectern in the library room of [[Teiruun Monastery]]. It discusses the history of the monastery, from its founding to the unique culture its populace developed over time.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5568  |  198  | 2961  |
+
+# History of the Tidal Dynasty
+
+This book can be found in a chest in the [[Firteid]] Library, and tells an abridged history of the [[Tidal Dynasty]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3990  |  94   | 3438  |
+
+# Hole-Filled Notebook
+
+Hole-Filled Notebook can be found in a chest in the [[Primary Energy Collection Facility]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26907 |  79   | -167  |
+
+# Homli's Pass Expeditions
+
+This book can be found in a chest in the Cult of Fear's Tower, in The [[Frozen Bite]]. It describes difficulties in navigating [[Faehrcyle]] due to the snow covering previously made signposts.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4624  |  69   | -2815 |
+
+# Idiot's Report
+
+This book can be found on a lectern at a [[Maelmari]] lookout in the southeastern portion of [[The Carmine]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2105 |  122  | 5975  |
+
+# Ihb's Letter Home
+
+This book can be found in a chest in the ruins of Kazzani, at the southern edge of the [[North Heartwood]]. It is written by [[Devro Ihb]] to the people of his hometown, after his books describing his travels have made him a famous figure among the children of the town in particular.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1807  |  108  | 3311  |
+
+# Initiate's Report
+
+This book can be found on a lectern in the [[Star-Rise Bastion]] on the [[Island of Dawn]], documenting a Star-Kin initiate's discovery of the ruins of [[Xor'Huul]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -938  |  182  | -4153 |
+
+# Intelligence Officer's Draft
+
+This book can be found in an item frame in the [[Admin Wing|Administrative Wing of the Av'Sal Repository]]. It contains both formal and informal logs of world events from an Avsohmic intelligence officer.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| -216.5 |   9   | 1621.5 |
+
+# Introduction to Alchemy
+
+This book can be found on a lectern in the ruined university at [[Av'Sal]]. It provides, as the title suggests, a brief introduction to alchemy, primarily focusing on the three major schools of alchemy and the main goal of all alchemists—to complete the Great Work.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -349  |  96   | 1804  |
+
+# Islands of the Realm
+
+This book can be found in a chest in the [[Highfall]] library, and describes the three major outlying islands of Drehmal: The [[Island of Dusk]], [[Island of Dawn]], and [[Sahd]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5972  |  77   | -1073 |
+
+# Journal of Councilman Kihfs'Mihnar
+
+This book can be found in a chest in the [[Insohmic Library]], east of [[Mossfield|New Mossfield]]. In it, an Insohmic council member chronicles the mental decline of [[Ultva|Ultva Utofal]], a co-founder of the Order of [[Insohm]], as he becomes infatuated with ancient [[Avsohm|Avsohmic]] technology.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4545  |  113  | 1585  |
+
+# Journal of Krihs
+
+This book can be found in a chest in [[Faehrcyle]]. Written by a traveler seeking information about their Faehrcylian ancestors, the book hints at the location of a [[Runic Catalyst]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3062  |  71   | -3463 |
+
+# Journal of a Devotee
+
+This book can be found in a chest in the small shack inside the [[Primal Caverns]], written by a devotee of [[Drehmal]] about their desire to meet the deity.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  882  |  66   |  486  |
+
+# Journal of the Lohrax
+
+Found in a chest within the hollowed stump of a tree in the northern portion of the [[Spearhead Forest]] region's large lake.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3738  |  73   |  465  |
+
+# Journey to the Star-Rise
+
+This book can be found on a lectern in the [[Dusps]] library. It tells of a fantastical, forgotten land that was home to [[Rihelma]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2087  |  114  | -807  |
+
+# Juniper's Journal
+
+This book can be found on a lectern in [[Teiruun Monastery]]. It contains the writings of a teenage girl who made the journey to Teiruun from [[Mossfield]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5626  |  187  | 3010  |
+
+# Just Two Weeks...
+
+This book can be found in an item frame in a house in [[Sevick]], an island northeast of [[Mossfield]]. It tells the story of a Drehmari about to turn 16 years old as Sevick's plague craze hits, with the author's family quickly devolving to the point of attempting to surgically remove "infected" tissue from themselves, despite the fact there is likely no plague at all.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 5024.5 |  79   | 1104.5 |
+
+# Kovis's Hypothesis
+
+This book can be found in a shulker box in the [[Exodus Vault]]. It contains some facts and some speculation on how the Resonant Eye functions from [[Kovis]], a [[Blue Exodus]] staffer.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2743 |  29   | 2150  |
+
+# Last Notes
+
+This book can be found in an item frame in an old Avsohmic ship wrecked in [[Nimahj Swamp]], pondering on the location of one of the ship's crewmembers who left to find help at the [[Exodus Citadel]]. The coordinates mentioned in the book as Dahmar's last known location point players to a chest and small tomb-like structure with a skeleton head.
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -2262.5 |  97   | 2112.5 |
+
+# Letter Awaiting Delivery
+
+This book can be found in a chest at the [[Firteid]] docks. Written by a Drehmari in [[Mossfield]], it is addressed to a [[Maelmari]] living in [[Rhaveloth]] who was his uncle before being ascended. The letter asks Amos (known as Gharak Ahgel as a Maelmari) to come home and see his family.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3782  |  67   | 3393  |
+
+# Letter from Gohri
+
+This book can be found in a chest within the [[Primary Energy Collection Facility]], written from [[Gohri Zed]] to [[Thresa Vera]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26949 |  98   | -153  |
+
+# Letter from a Faraway Land
+
+This book can be found in a chest in [[Athrah]]. It written by a Casain trader procuring goods from elsewhere to sell in Athrah, writing home to his family before beginning the trip back.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2704 |  71   | -1769 |
+
+# Letter of Thanks
+
+This book is dropped by Abbot Balthysar atop [[Teiruun Monastery]]. Written by the Abbot himself, it espouses the goal of the monastery: creating new [[Virmari]] for the first time since the departure of [[Virtuo]].
+
+## Coordinates (Enemy Spawn)
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5563  |  241  | 2974  |
+
+# Letter to Nimbog Mining Crew
+
+This book can be found in an abandoned mineshaft in [[Nimahj Swamp]], hinting at the location of an ore vein below this location. A diamond ore vein can be found at the bottom of this mine, hidden behind coal ore.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2417 |  60   | 2777  |
+
+# Letter to Nobody in Particular
+
+This book can be found in a chest in a manor on the outskirts of [[Eloa]], containing one last message from the noblewoman who last inhabited the manor. She and her family fled Eloa after [[Maelmari]] forces began to re-assert control over the area, and leaves the hall and the [[Sharksbane]] artifact to whoever finds this book.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -589  |  107  | 4671  |
+
+# Lofty Reflections
+
+This book can be found in a chest in [[Rhaveloth]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2894 |  83   | 5185  |
+
+# Loneliness
+
+This book can be found in a chest at a church in western [[Spearhead Forest]]. It is written by a person who has begun squatting in the abandoned church, and has appointed themselves its guardian.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3156  |  151  |  761  |
+
+# MP's Notes
+
+This book can be found in an item frame in the Parliament building in [[Dusps]], describing increasing political tensions in the region between Dusps and [[Ancehl]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 2025.5 |  112  | -762.5 |
+
+# Madman's Notes
+
+The Madman's Notes can be found in a chest in the [[Primary Energy Collection Facility]], near the dungeon's entrance.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26867 |  75   | -135  |
+
+# Madman's Scrawl
+
+The Madman's Scrawl can be found in a chest in the [[Primary Energy Collection Facility]], near the top of the facility.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26962 |  98   | -128  |
+
+# Man's Diary
+
+Located in the chest in a tent on the forested western coast of [[Faehrcyle]], just south of [[Schlonko]], this book describes a Drehmari's account of turning after being cursed by a necromancer in [[Lorahn'Kahl]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  980  |  66   | -2844 |
+
+# Manifesto of the Gatewatch
+
+This book can be found in a chest in [[Faehrcyle]], just outside the door to [[Mt. Yavhlix]]. It describes the duty of the Yavhlix Gatewatch, whose orders are to immediately seal off the facility in the event of communication loss to prevent any potential catastrophe from escaping the mountain.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1811  |  42   | -4288 |
+
+# Manifesto of the Sunchasers
+
+This book can be found on a lectern in the [[Burnt Palace]]. It contains the result of a [[Maelmari]] study on the [[Torahn]], concluding that it is, in fact, a pufferfish.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3993 |  69   | 6051  |
+
+# Meat Shipments
+
+This book can be found in a chest in the [[Burnt Palace]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3981 |  63   | 6020  |
+
+# Memo of a Drehmari Devotee
+
+This book can be found in a chest at a small camp in the [[Crimson Gorge]]. It is written by a [[Drehmari]] devotee of [[Maelihs]], in which they profess their reasons for switching allegiances from [[Virtuo]] to Mael.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3166 |  70   | 5249  |
+
+# Memoir of Devro Ihb
+
+ This book can be found on a lectern in the ruins of Kazzani, at the southern edge of the [[North Heartwood]]. Written by [[Devro Ihb]], it would be his final piece of writing before taking a position in the Avsohmic government, as he leaves behind his hometown of Kazzani for the final time.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1784  |  121  | 3211  |
+
+# Memoir of a Tutor
+
+This book can be found in a chest atop a hill in southeastern [[Av'Sal]]. Written by a former tutor of Avsohmic founder [[Drehn|Drehn Mal'Sohm]], it recounts how he was a bright student and a capable leader from his early days, as well as providing insight into the method through which he obtained the title of Emperor.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|   7   |  177  | 1781  |
+
+# Merchant's Lament
+
+This book can be found in an item frame in the northern extent of [[The Carmine]], noting new tariffs imposed by [[Maelihs]].
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -3328.5 |  200  | 3893.5 |
+
+# Merchant's Praise
+
+This book can be found in a chest in northeastern [[Av'Sal]], written by a merchant happy that [[Anyr]] has brought Avsohm out of an economic recession.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -61  |  73   | 1520  |
+
+# Midwit's Records
+
+This book can be found on a lectern at a [[Maelmari]] lookout in the southeastern portion of [[The Carmine]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2083 |  123  | 5987  |
+
+# Monk Gehru's Memoir
+
+This book can be found in a chest outside the [[Kiln of Virtuo]], in the Kiln Attendants' Residence building. It is written by Monk Gehru, and contains Gehru's account of Virtuo's departure and their own subsequent appointment to the Grand Parish as the only remaining member, as well as their attempts to rebuild the Parish and the Kiln.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3357  |  82   | 3352  |
+
+# Moons of the Realm
+
+This book can be found in a chest on the lower floor of the library in [[Okeke]]. It provides a brief description of the three moons of Drehmal.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1553 |  66   | -473  |
+
+# Musings of Kahmas
+
+This book can be found in a chest in the [[Exodus Vault]], in which [[Kahmas Tuhs]] ponders whether the continued expansionism of Avsohm is warranted, or if it will ultimately become too dangerous.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2650 |  32   | 2125  |
+
+# Necromancer's Final Sermon
+
+This book can be found on a lectern in an underground necromantic church in the Moonspires region of [[Lorahn'Kahl]]. It is the last sermon of a necromancer, explaining why the [[Tri-Moon Theocracy]] has fallen, and encouraging those who would listen to continue to pursue the Great Work.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1671 |  18   | 5231  |
+
+# Negotiation Notes
+
+This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It contains the initial negotiation between the Project ArkAngel researchers and the representatives of [[Virtuo]] for the former to utilize the space behind the Kiln for Project ArkAngel, with the [[Virmari]] ultimately accepting in the hopes that learning more about divine magic can help the [[Drehmari]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3193.5 |  88   | 3256.5 |
+
+# Notes from Gnathn
+
+This book can be found in a chest in a wrecked Avsohmic ship in [[Nimahj Swamp]]. It states that the ship's captain has disappeared, and the rest of the crew is now stuck.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2250 |  86   | 2119  |
+
+# Notes from the Head Architect
+
+This book can be found in a chest in the [[Burnt Palace]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -4051 |  34   | 5956  |
+
+# Notes of a Regionalist Senator
+
+This book can be found in a chest on the central island of [[Av'Sal]]. Written by a Regionalist senator, it laments the newfound popularity of Emperor [[Anyr]], whose Centralist policies are sweeping Avsohmic elections and taking more power away from the individual regions.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -199  |  81   | 1646  |
+
+# Observations of an Underling
+
+This book can be found in a chest in the [[Burnt Palace]], describing the fallout of the betrayal of [[Klyhf|Klyhf Him'Lahk]], an alchemist who was in the service of [[Maelihs]] for eleven years before attempting to sacrifice the deity to complete the [[Great Work]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -4026 |  55   | 5958  |
+
+# Off the Beaten Path
+
+This book can be found in a chest in southern [[Firteid]]. It points the player toward the black market beneath the Merchant's Guild.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3831  |  69   | 3612  |
+
+# Official Records 1
+
+This book can be found in a chest in [[Thesund]]. It establishes that this village was established by the children of Avsohmic citizens shortly after the fall of the empire, who were attempting to distance themselves from their past and the perceived sins of their ancestors.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -364  |  107  |  773  |
+
+# Old Memories
+
+This book can be found in a lectern in a room at the bottom of the [[ICS Arbiter]]. It tells the story of how [[Vahid]] came to become the head of the [[Insohm|Order of Insohm]], giving a speech that was so well-received by the Grand Council of Insohm that he was instantly appointed to the position of Master of Insohm, uniting the coalition behind a common hatred of [[Maelihs]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -483  |  74   | -1955 |
+
+# Old Mossfield
+
+This book can be found in the [[Mossfield]] Library, and points the player towards the ruins of old Mossfield, a much greater city whose ruins lie just to the east of the current village of New Mossfield.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4132  |  67   | 1756  |
+
+# Old Villager's Journal
+
+This book can be found on a lectern in [[Helmshire]]. It describes a series of disappearances that fractured the community, resulting in about half of the village choosing to leave for a supposed sanctuary to the north.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2896  |  74   | 1265  |
+
+# On Alchemy
+
+This book can be found on a lectern in [[Ancehl Castle]]. Its text gives an overview of the study of alchemy. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books, in which each of the books must be turned to the page that contains their respective passage in the memo.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1525  |  141  | -1979 |
+
+# One Year Update
+
+This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]], showing that there was little progress on [[Project ArkAngel]] in the first year after the researchers' occupation of the Divination Facility.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3186.5 |  88   | 3258.5 |
+
+# Origins of the Casain
+
+This book can be found in a chest in the [[Athrah]] library, describing the formation of the Casain ethnic group out of earlier tribes.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2710 |  53   | -1834 |
+
+# Origins of the Xorhei
+
+This book can be found in a chest in [[Xor'Huul]]. It describes how the city came to be, explaining that its inhabitants were originally the final tribe in the far north of Casai to be assimilated under King Athrah Zarha in the founding of the Casain Empire. They were sent away to the far north, and landed on the [[Island of Dawn]], where they settled in a series of caverns and came to worship the Vorthrah (crystal mites) that inhabited the island.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1221 |  66   | -4150 |
+
+# Ornstehn's Journal
+
+This book can be found in a chest in the large domed building on the central island of [[Av'Sal]]. Within, the Mihkmari Ornstehn ponders the nature of a picture he found of a large, foreboding door, but ultimately decides not to pursue it, instead looking towards the door in Av'Sal's ruins.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -207  |  106  | 1648  |
+
+# docs/Lore/Books/Owwer_Cold_Crysys.md
+
+This book can be found in an item frame at the [[Crystalline Colonnade]], sacred place of [[Loe]]. It is not a writable book, and provides hints as to the accepted [[Devotion]] gifts for [[Loe]].
+
+## Coordinates
+| **X**  | **Y** |  **Z**  |
+| :----: | :---: | :-----: |
+| 1029.5 |  99   | -3007.5 |
+
+# Paranoïa
+
+This book can be found in a chest at a church in western [[Spearhead Forest]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3145  |  153  |  762  |
+
+# Parent's Concerns
+
+This book can be found in a chest in a ruined house in southwestern [[Av'Sal]], just north of the large statue. WIthin, a parent wonders how they will explain to their daughter why Avsohm is so great, and ultimately settles on the efforts of founder [[Drehn|Drehn Mal'Sohm]] as the primary reason for their patriotism.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -435  |  104  | 1626  |
+
+# Patron's Pleas
+
+This book can be found in a chest inside the [[Primary Energy Collection Facility]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26898 |  117  | -139  |
+
+# Perfection Minister's Optimism
+
+This book can be found in an item frame behind the [[Kiln of Virtuo]]. It is not a writable book, and serves as a hint to the accepted [[Devotion]] gifts for [[Virtuo]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3260.5 |  85   | 3288.5 |
+
+# Pillager Report
+
+This book can be found in a chest in one of the buildings in [[Gozak]], referencing pillager activity at [[Castle Scarstone]] to the northeast of Gozak.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2252  |  50   | 2476  |
+
+# Planning a Voyage
+
+This book can be found in a chest in a shelter on a large volcanic island northeast of [[Casai]], written by a traveler who was preparing to sail from this island north to the [[Island of Dusk]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2134 |  67   | -2139 |
+
+# Plea to the Wind
+
+This book can be found on a lectern at a shrine to [[Rihalae]] in the [[North Heartwood]], south of [[Gozak]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2216  |  80   | 2927  |
+
+# Possible Mining Location
+
+This book can be found in a chest in [[Ebonrun]], referencing the large volcanic island northeast of [[Casai]] as a potential spot for a mining operation.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2969 |  125  | -218  |
+
+# Post-Ritual Announcement
+
+This book can be found in an item frame in the [[Sepulchral Altar]]. It is not a writable book, and provides a hint as to the accepted [[Devotion]] gifts for [[Maelihs]].
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -2783.5 |  53   | 5347.5 |
+
+# Powerless
+
+This book can be found in a chest in a room beneath the [[Kiln of Virtuo]]. Written by [[Virtuo]], it expresses her frustration with her own inaction over the course of history.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3208  |  40   | 3364  |
+
+# Practical Biomechanics
+
+This book can be found on a lectern in the ruined university at [[Av'Sal]]. It describes the field of Practical Biomechanics, the use of Alchemy to produce everyday materials such as wood.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -348  |  104  | 1807  |
+
+# Precepts of the Tidal Dynasty
+
+This book can be found on a lectern toward the top of the palace in [[Firteid]]. It lays out the guidelines by which the [[Tidal Dynasty]] operated.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3737  |  141  | 3498  |
+
+# Prefect's Grumblings
+
+This book can be found on a lectern in the Golden Order Star Center observatory at [[Dusps]]. It contains some records on the astronomical observations of the moons of Drehmal, and posits that the [Aspects](/Lore/Higher_Beings/Aspects/) may still be alive.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2138  |  116  | -878  |
+
+# Previous Cultivator's Findings
+
+This book can be found in a chest in the dark green building (Ehrmion's Home) in [[Dusps]]. It describes a cornflower blooming early and seeming to establish a psychic hold over the author, who becomes obsessed with maintaining it. It has the exact same contents as [[Growing Fear]], with the exception of uncapitalized month abbreviations.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2175  |  111  | -828  |
+
+# Priest's Diary
+
+This book is found in a chest in the ruins of [[Xor'Huul]]. It details the process of a Xorhai priest becoming one of [[Koh]]'s ascended, which turns into a debilitating sickness that spreads throughout the city.
+
+## Coordinates (Obsolete)
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1266 |  46   | -4067 |
+
+# Priestess of Virtuo's Notes
+
+This book can be found in a chest at the Parish of Virtuo in [[Highfall]], expressing dissent against the worship of [[Virtuo]] as opposed to more traditional worship of [[Tethlaen]] in the far north.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5907  |  71   | -1115 |
+
+# Project ArkAngel
+
+This book can be found in an item frame in the Divination Facility at the [[Kiln of Virtuo]]. It describes the creation of Project ArkAngel, which resulted in the creation of the facility that we find this book in, with the ultimate goal of creating a portal to [[Lo'Dahr]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3190.5 |  88   | 3241.5 |
+
+# Project Moonstrider
+
+This book can be found in a chest in [[Azimuth Labs]]. Written by [[Vohski Ottis]], it provides an account of a [[Red Dawn]] project that attempted to create an experimental runic anti-aging treatment, and ended in the death of a volunteer.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3230  |  89   | -629  |
+
+# Quartermaster's Notes
+
+This book can be found in a chest in [[Rhaveloth]], with a [[Maelmari]] quartermaster presumably receiving a shipment of [[Runic Catalyst|Runic Catalysts]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2879 |  70   | 5202  |
+
+# Regarding the Aphelion
+
+This book can be found in a chest in the [[Burnt Palace]]. It contains intel on the [[Aphelion]], to be delivered to the [[Burnt Generals]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3958 |  64   | 6003  |
+
+# Regent's Planner
+
+This book can be found on a lectern in [[Ancehl Castle]]. Written by the Regent of Ancehl, presumably Ehzar, it shows that by the present day, the Duke of Ancehl has died, meaning a regent must take over for the child Duchess, and discusses Ehzar's ambition to complete the [[Great Work]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1527  |  157  | -1966 |
+
+# Reports from a Mihkmari
+
+This book can be found in an item frame in a large building in northwestern [[Av'Sal]], and describes the [[Mihkmari]]'s attempts to pillage the ruins of the city, finding nothing functional except a large door.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| -475.5 |  113  | 1466.5 |
+
+# Researcher Arlea's Discovery Log
+
+This book can be found in an item frame in [[Sal'Mevir]]. It details a discovery that leads to the [[DoS]] taking over Sal'Mevir and the creation of the Temporal Engine.
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 2447.5 |  132  | 1128.5 |
+
+# Researcher Cehva's Side Project
+
+This book can be found in a chest in the [[Numencore]]. Written by a researcher at the Numencore Facility, it pulls together different anecdotes about the life of [[Orix Cehein]], who has become something of a hero to the author. The book claims that Orix was a masterful arcanist, having previously served as a soldier in the [[Divine Schism]] and worked as a covert operative for the Empire before being assigned to [[Mt. Yavhlix]], where what he saw within the Resonant Eye changed him.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 27341 |  124  |  96   |
+
+# Researcher Noam's Rant
+
+This book can be found in a chest in [[Sal'Mevir]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2570  |  181  | 1221  |
+
+# Resignation
+
+This book can be found in a chest in a small camp outside [[Mt. Yavhlix]]. It is written by an Insohmic official who had been attempting to open the gate to the facility within the mountain, but has effectively given up after finding no way to enter.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1818  |  66   | -4183 |
+
+# Sahndi's Diary
+
+This book can be found in a chest in [[Sal'Mevir]]. Written by a janitor at the facility who overheard a conversation involving [[Baen Vehmil]] and [[Thresa Vera]], the book recounts that janitor's best understanding of what was spoken about, including [[Mt. Yavhlix]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2510  |  153  | 1185  |
+
+# Scarred Notepad
+
+This book can be found in a chest in the [[Tharxax City]] Treasury room, in which a tax collector for [[Maelihs]] questions their dedication to the chaos deity after seeing life in Tharxax.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2136 |  71   | 3677  |
+
+# Scholar's Pondering
+
+This book can be found in a chest in [[New Elvett]]. It notes the odd towers connected to the bridge over the area, wondering how they may be connected together.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3186 |  64   | 1251  |
+
+# Scribbled Note
+
+This book can be found in a chest at a house in southwestern [[Akhlo'Rohma]], just north of [[Drahbes]]. It hints at a [[Runic Catalyst]] hidden under the garden of the house.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1690  |  65   | -617  |
+
+# Scribbled Notes
+
+This book can be found in the [[Emperor's Estate]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5101  |  149  | 6315  |
+
+# Scribe Erato's Account
+
+This book can be found on a lectern in [[Teiruun Monastery]]. It describes a scribe in the monastery hearing loud clanking sounds late at night, likely referencing some kind of experimentation going on at the facility.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5580  |  202  | 2972  |
+
+# Scripture from a far off land
+
+This book can be found in a chest at The Grimm Troupe, in the far west of The [[Frozen Bite]]. Like the rest of the building it inhabits, it is a Hollow Knight reference.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4453  |  119  | -3274 |
+
+# Sea Priest's Musings
+
+This book can be found in an item frame at [[Dahr's Shrine]] in [[Port Solitude]]. It is not a writable book, but rather contains a hint as to the accepted [[Devotion]] items for Abyssal Elder [[Dahr]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 1843.5 |  69   | 4263.5 |
+
+# Servant's Journal
+
+This book can be found in the [[Emperor's Estate]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5118  |  158  | 6350  |
+
+# Servent's Lament
+
+This book can be found in a chest in [[Ancehl Castle]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1522  |  150  | -1950 |
+
+# Shi'en's Notes
+
+This book can be found in a chest in the underground section of [[Teiruun Monastery]] in the same room as Immortal Monk Shi'en, showing that the attempts at ascending [[Drehmari]] into [[Virmari]] without [[Virtuo]] have failed.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5615  |  156  | 3008  |
+
+# Shirua's Teachings
+
+This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. This book sees an old Drehmari nun consult Drehmal when her town is running low on water, and being brought by the Realmbinder to an ancient rune. She is then instructed by the deity to ensure that her people's most important practices and teachings live on by using the written word to record their history, which in turn becomes the only reason that we have records of Drehmal's activity from the early second Avihm at all in Drehua Temple.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -86  |  164  | 2807  |
+
+# Shorusharoh's Teachings
+
+This book can be found on a lectern in [[Drehua Temple]], sacred place of [[Drehmal]]. It is one of four "Parables" in Drehua Temple, which each depict the serpent deity speaking with—and giving advice to—a Drehmari. In this book, a tired Drehmal comes across a scribe's apprentice who has been tasked with counting all the healthy trees in a massive orchard, and teaches them to approach their tasks with patience, as a job well done over a long time is the most rewarding. On this note, the serpent informs this Drehmari that they are content with their own work reshaping the realm for the time being, and are going to rest, before slithering away to the [[Primal Caverns]] to begin their indefinite slumber, making this likely the final recorded sighting of Drehmal.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -86  |  164  | 2811  |
+
+# Shrine Visitor Information
+
+This book can be found on a lectern at a shrine to [[Drehmal]] in the far southwest of [[Sahd]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4306  |  66   | 6539  |
+
+# Simplicity's Reward
+
+This book can be found in a chest in the ruins of Azaim, in northern [[Akhlo'Rohma]]. It describes the night of Avsohm's fall, and concludes that a simple life which does not invite unwanted forces is the best way to live.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2733  |  125  | -1979 |
+
+# So Now You Work At the Exodus Citadel! FAQ (Vault)
+
+This book can be found in a chest at the [[Exodus Citadel]]. It is an FAQ for new employees of the Citadel, intended to answer questions about the [[Exodus Vault|vault]] beneath it.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2614 |  70   | 2324  |
+
+# Southern Exploration
+
+This book can be found in a chest in one of the buildings in [[Firteid]], in which a Drehmari recounts their exploration of the [[Black Jungle]]'s southern coast, including a sighting of the [[Sahdan Monastery]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3961  |  84   | 3477  |
+
+# Spelunker's Woes
+
+This book can be found in a chest, just outside a large cavern within the [[Sal'Anyr]] mesa, stating that there has been very little production from this cave.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3291 |  38   | 2273  |
+
+# Spider Infestation
+
+This book can be found in a chest in [[Ebonrun]], hinting at the location of the Flammer legendary in southern [[Mt. Ebonfire]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2967 |  134  | -192  |
+
+# Stasis Subject Roster
+
+This book can be found in an item frame in the [[Stasis Facility]], listing the twenty-four high-ranking Avsohmic officials who were kept in temporal stasis pods in this facility. Players may spawn in any of the eight chambers on the lower floor, numbered #1-8, effectively taking up the character of any of the first eight people listed. Some other names listed are mentioned in the lore of the map, but are not playable.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 799.5 |  21   | 631.5 |
+
+# Storm's Gathering
+
+This book can be found in a chest in [[Shivering Pines Inn]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4888  |  104  | -3355 |
+
+# Strange Prayer...
+
+This book can be found in a chest in [[Firteid]], hidden beneath the floorboards of a small house. It seems to be a an easter egg referencing the third co-lead developer of the map, DomeMaster.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4022  |  76   | 3430  |
+
+# Survivor's Account
+
+This book can be found in a chest in the ruins of Rhaverik in the [[North Heartwood]]. From it, we learn that Rhaverik was a mining town, and was warned not to continue mining for rehntite by a traveling witch. They refused to heed this warning, and most of the town was lost to a colossal sinkhole.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1049  |  66   | 2173  |
+
+# Swamp Expeditions
+
+This book can be found in a chest in [[Fort Nimahj]], describing an expedition into [[Nimahj Swamp]] in which a Drehmari spotted the [[Exodus Citadel]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1723 |  161  | 1879  |
+
+# THE BATHS ARE BACK!
+
+This book can be found in a chest in [[Firteid]]. It celebrates the re-opening of the city's public baths, and hints at a celestial chondrule in the building.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3825  |  97   | 3506  |
+
+# TO-DO LIST
+
+This book can be found in an item frame on a tree within the main central domed building in [[Av'Sal]]. It is seemingly written by a [[Mihkmari]] inhabitant of the ruined capital.
+
+## Coordinates
+| **X** | **Y** | **Z**  |
+| :---: | :---: | :----: |
+| -213  | 107.5 | 1645.5 |
+
+# Tale of Maehrn'Vhos
+
+This book can be found in a lectern at the western end of [[Maehrn'Vhos]], preaching the wall's history.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2251 |  119  | -140  |
+
+# Tattered Diary of Klyhf Him'lahk
+
+This book can be found in a chest in the [[Burnt Palace]]. It tells the tale of its author, [[Klyhf|Klyhf Him'Lahk]], an alchemist from [[Red Dawn]] who defected to [[Maelihs]] in early Av3, and grew over time to become a genuine friend of the deity, working for him while also attempting to complete the [[Great Work]] on the side. This book establishes that the Great Work is the wielding of divine magic by a non-deity, and eventually, the author decides that the only way to complete the Great Work is to attempt to sacrifice Mael.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3989 |  90   | 6021  |
+
+# Tattered Pamphlet
+
+This book can be found in a chest in [[Semehol]]. It calls for the people of Semehol to revolt against [[Maelihs]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1731 |  65   | 3884  |
+
+# Tech Legacy
+
+This book can be found on a lectern in a lighthouse on the east coast of [[Highfall Tundra]], written by the keeper of the lighthouse.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 6218  |  139  | -1764 |
+
+# Tergei's Log
+
+This book is found in a chest at Homesick Tergei's small camp, north of the North Tharxax tower.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1160 |  80   | 1180  |
+
+# Tharhan: A Land of Conquest (Chapter 1)
+
+This book can be found on a lectern in [[Fort Nimahj]]. It is the first of four chapters, and tells the story of the First Tharhan Empire. Particular focus is given to their practices of shipping criminals away, sending felons south to [[Rhaveloth]] to be converted to [[Maelmari]] and misdemeanants north to [[The Ebony Veldt]], where they would go on to found [[Caer Adacia]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1719 |  161  | 1901  |
+
+# Tharhan: A Land of Conquest (Chapter 2)
+
+This book can be found in a chest in the Lord Magister's Residence atop [[Tharxax City]]. It is the second of four books in the "Tharhan: A Land of Conquest" series, and focuses on the emergence of the Six Tharhan Kingdoms in early Av2, including their wars with the [[Casain Empire]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2109 |  115  | 3578  |
+
+# Tharhan: A Land of Conquest (Chapter 3)
+
+This book can be found in a chest at an abandoned Tharhan fort in the [[Nimahj Swamp]] region. It is the third of four books in the "Tharhan: A Land of Conquest" series, continuing the saga of the Tharhan Empires. This chapter's contents include the eventual victory over Casain invaders, the foundation of the Second Tharhan Empire, and the empire's eventual subjugation at the hands of [[Avsohm]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2205 |  92   | 2497  |
+
+# Tharhan: A Land of Conquest (Chapter 4)
+
+This book can be found in a chest in [[Semehol]]. It is the last of four books in the "Tharhan: A Land of Conquest" series, and focuses on the Tharhan experience under [[Avsohm|Avsohmic]] rule, up through the [[Fall of Avsohm|fall of the empire]]. It also establishes that this book series was written during the time of the [[Insohm|Order of Insohm]], ending on the hope that Insohm can liberate the Tharhan Plains.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1688 |  69   | 3885  |
+
+# The Arcane Alchemist
+
+This book can be found in a chest at the [[Okeke]] inn. Its author is a practitioner of both arcanism and alchemy, and helps to explain the difference while asserting their personal preferences between the arts.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1566 |  71   | -438  |
+
+# The Avsohmic Miracle
+
+This book can be found in a chest in the [[Insohmic Library]]. It discusses the manner through which Avsohm was able to rise to such great power so quickly through an empirical lens, arguing that multiple alchemical fields underwent incredibly rapid revolutions, paving the way for Avsohmic domination, rather than divine intervention being the cause behind the empire's power.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4553  |  104  | 1591  |
+
+# The Battle of River Street
+
+This book can be found in a chest beneath a staircase within a house in [[Firteid]]. The author of the book lists several reasons why their neighbor planting a rose bush is destructive to the community, and threatens to personally remove it.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4024  |  80   | 3444  |
+
+# The Boyhood Days of Drehn Mal'Sohm
+
+This book can be found in a chest in northeastern [[Av'Sal]]. It is something of a propaganda piece, glorifying the childhood of Avsohm's first emperor, [[Drehn|Drehn Mal'Sohm]], in the form of a childrens' book. It paints Drehn as a near-prodigy, as well as a young boy of incredibly upstanding moral character that other children should aim to replicate.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -86  |  72   | 1486  |
+
+# The Casain Empire
+
+This book can be found in a chest in the [[Athrah]] library, and tells a detailed history of the Casain Empire.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2725 |  54   | -1826 |
+
+# The Casain Migration and Its Impact
+
+This book can be found in a chest in the library in [[Dusps]], providing insight to the Casain diaspora from their home region to Dusps, and the political ramifications of that event.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2080  |  112  | -802  |
+
+# The Crypts of Akhlo'Rohma
+
+This book can be found in a chest in the library in [[Dusps]], and contains information on the crypts below [[Ancehl]] Castle.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2081  |  115  | -802  |
+
+# The Daily Brunt: Fires, Fires, and More Fires!
+
+This book can be found in a chest in [[Rhaveloth]]. It is a community newspaper article, reporting on a building in eastern Rhaveloth burning down.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2813 |  73   | 5248  |
+
+# The Debilitating Side Effects of Primal Khivesbrew
+
+This book can be found in a chest in [[The Foundry]]. It describes the significant drawbacks of Primal Khivesbrew.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3196 |  73   | 1565  |
+
+# The Epic of Homli Tahsgan
+
+This book can be found in a chest in [[Faehrcyle]]. In the form of an epic poem, it recites the tale of [[Homli Tahsgan]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2823  |  84   | -3026 |
+
+# The Fall of Avsohm
+
+This book can be found in a chest in [[Drabyel]], along with [[The Rise of Avsohm]]. It contains a very abridged history of the end of the [[Avsohm|Avsohmic Empire]], from the death of [[Drehn|Drehn Mal'Sohm]] to the reign of the final two emperors and eventual collapse.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  520  |  67   | 1835  |
+
+# The Fifty-Seven Precepts of Zote
+
+This book can be found on a lectern in the Grimm Troupe, in the far west of The [[Frozen Bite]]. It is a reference to the 57 Precepts of Zote from Hollow Knight.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4478  |  118  | -3257 |
+
+# The Frostfang Catastrophe
+
+This book can be found in a chest on the upper level of the library in [[Okeke]], and tells the story of the [[Frostfang Catastrophe]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1554 |  71   | -471  |
+
+# The Good Old Days
+
+This book can be found in a chest in an abandoned Tehrmian village in northeastern [[Purity Peaks]]/southeastern [[Akhlo'Rohma]]. It provides some insight on the history of the Purity Peaks/Tehrmia region, reminiscing over days when the [[Tehrmari]] presence on the continent was much stronger.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2744  |  81   | -389  |
+
+# The Great Work
+
+This book can be found on a lectern in the [[Nimahj Alchemy Fortress]]. It provides some insight as to what the Great Work, the ultimate goal of all alchemists, is. It also states that the Great Work has been completed twice, by the [[Aok|First Necromancer]] and the "[[Akim|Lord of Dust]]."
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2422 |  86   | 2947  |
+
+# The Heart of Hell
+
+This book can be found in a chest in [[Fort Nimahj]]. It offers a poetic depiction of the domain of [[Maelihs]] in the far southwest of the continent: The [[Hellcrags]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1724 |  161  | 1901  |
+
+# The Hunting of Greatbeast Muhs
+
+This book can be found in a chest in one of the buildings in [[Gozak]]. Across 27 in-game pages, this book tells the epic tale of the hunting of [[Muhs|Greatbeast Muhs]], the Aspect of Beasts, in Av2 1702.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2273  |  51   | 2431  |
+
+# The Insohmic Civil War
+
+This book can be found in a chest in the library at [[Highfall]], and contains a historical account of the [[Insohmic Civil War]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5970  |  77   | -1077 |
+
+# The Mystery of Castle Hovadchear
+
+This book can be found in a chest in a building in [[Mossfield]], and references the crater in southwestern [[Spearhead Forest]] that used to be home to Castle Hovadchear.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4153  |  71   | 1706  |
+
+# The Omen
+
+This book can be found in a chest underground in the ruins of [[Old Elvett]]. It was written by a barkeeper about an ominous, hooded figure wielding a scythe in the bar, who the author calls "an emissary of the empire's end."
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3178 |  62   | 1341  |
+
+# The Origins of Blue Exodus
+
+This book can be found in an item frame at the Lord Magister's Residence, atop [[Tharxax City]]. It describes the origins of [[Blue Exodus]].
+
+## Coordinates
+|  **X**  | **Y** | **Z**  |
+| :-----: | :---: | :----: |
+| -2108.5 |  129  | 3581.5 |
+
+# The Origins of Green Serpent
+
+This book can be found on a lectern in [[Firteid]]. It discusses the mysterious origin of [[Green Serpent]], and the organization's role within [[Avsohm]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3861  |  96   | 3479  |
+
+# The Origins of Red Dawn
+
+This book can be found in a chest at the Insohmic [[Coven of Potentia]]. It is, as the title suggests, about the origins of the [[Red Dawn]] alchemical society, and how it managed to survive beyond the [[Fall of Avsohm]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 6030  |  62   | 1532  |
+
+# The Parable of the Worm
+
+This book can be found on a lectern in a secret room in [[Drehua Temple]], hidden beneath the room with the other four Parables. It tells the ancient origin story of [[Drehmal]] themselves, beginning as a humble worm and being granted divinity when they were in the roots of the [[Primal Tree]] at the end of the First Avihm.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -90  |  154  | 2798  |
+
+# The Path - Part One: The Arc of Twilight
+
+This book can be found in a chest in a tower in [[Sahd]]. The first of three books in "The Path," this text establishes the concept of the "Arc of Twilight." Fundamentally, this idea relies on the concept of cycles, using the examples of the water cycle and the Torahn rising and setting every day, despite the fact that we can only directly observe part of that cycle. Therefore, there must be an invisible portion of the cycle, an Arc of Twilight, and this applies to the concept of reincarnation as well.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4681  |  174  | 5449  |
+
+# The Path - Part Three: Eternal Enlightenment
+
+This book can be found in a chest at a tower in [[Sahd]]. It is the last of three books comprising "The Path," and establishes the ultimate goal of this religion: To gain enough wisdom through the unique [[Drehmari]] ability to form complex memories and become like [[Mari]], The Laughing Dragon, having glimpsed the secrets that make the many cycles of the world function. It also recontextualizes the symbol of the salmon from the second book, as this fish is tattooed upon followers of The Path to represent the eternal struggle against the current to learn the inner machinations of the world.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4669  |  174  | 5449  |
+
+# The Path - Part Two: The Lesson of the Seha River
+
+This book can be found in a chest at a tower in [[Sahd]]. It is the second of three books in "The Path," and stresses the importance of hard work and determination, through a tale of four people attempting to complete the rite of boating up the violent Seha River.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4675  |  174  | 5455  |
+
+# The Pawn
+
+The Pawn is a book that can be found in the [[Frozen Bite]] region, in the [[Nihilist's Cabin]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5819  |  75   | -2991 |
+
+# The Pipes
+
+This book can be found in a chest in the [[Primary Energy Collection Facility]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26923 |  70   | -172  |
+
+# The Primal Sapling
+
+This book can be found on a lectern in [[Okeke]], atop a lighthouse at the docks. It references a "great tree" to the east of the town, pointing the player towards the [[Glade of the Giant]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1570 |  83   | -527  |
+
+# The Rise of Avsohm
+
+This book can be found in a chest in [[Drabyel]], and describes the rise of the [[Avsohm|Empire of Avsohm]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  518  |  65   | 1840  |
+
+# The Skeveraan
+
+This book can be found in a chest in the [[Skeveraan Laboratory]] in southwest [[Spearhead Forest]]. It describes the Skeveraan, a sect of alchemists who can create Frankenstein-like monsters from corpses.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3116  |  27   | 1284  |
+
+# The Strength of Will
+
+This book can be found on a lectern in [[Ancehl Castle]], in the large prismarine-domed building containing a Mihkmari Arcanist.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1484  |  153  | -1989 |
+
+# The Tri-Moon Theocracy
+
+This book can be found in a chest in [[Mohta]], and contains a history of the [[Tri-Moon Theocracy]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  -8   |  73   | 5300  |
+
+# The White Vault
+
+This book can be found in a chest in [[Athrah]], in a building near the dock. It references the [[Avsohmic Vault]] off the western coast of [[Casai]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2696 |  64   | -1744 |
+
+# The Wondrous Effects of Primal Khivesbrew
+
+This book can be found in a chest in [[The Foundry]]. It describes the beneficial effects of Primal Khivesbrew, a potion developed by [[Red Dawn]] that significantly enhances one's speed, strength, and stamina.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3284 |  111  | 1615  |
+
+# Theogony Volume I
+
+This book, along with its other two volumes, can be found in a chest inside the [[Drabyel]] Bookstore. This volume contains information on the three major deities of the world: [[Virtuo]], [[Maelihs]], and [[Drehmal]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  571  |  63   | 1839  |
+
+# Theogony Volume II
+
+This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the [Major Aspects](/Lore/Higher_Beings/Aspects/Major_Aspects/), the more powerful of the minor gods in the realm of Drehmal.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  564  |  63   | 1851  |
+
+# Theogony Volume III
+
+This book can be found in a chest in the [[Drabyel]] Bookstore. It provides an overview of the [Minor Aspects](Lore/Higher_Beings/Aspects/Minor_Aspects/).
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  561  |  64   | 1849  |
+
+# They've Been Lost
+
+They've Been Lost can be found in a chest in the [[Primary Energy Collection Facility]]. It describes the corruption of one of the workers at the [[Primary Collection Facility]], Theru, being corrupted by forces beyond her control.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 26894 |  85   | -128  |
+
+# Thought-recording of Ekari, Number 1870
+
+This book can be found in a chest in the [[Admin Wing|Administrative Wing of the Av'Sal Repository]]. It seems to contain the recorded thoughts of [[Ekari]], as they were imagining a design for the Ancillary Research Facility at [[Sal'Mevir]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -252  |  36   | 1653  |
+
+# Three Great Sigils
+
+This book can be found on a lectern in [[Hevhlak]], seeming to reference the Minor Aspect [[Dahroehl]], Aspect of Freshwater, apparently worshipped in this village.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2227  |  67   |  251  |
+
+
+
+# Rehntite Catalyst
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book describes a rehntite catalyst, which fueled one of the many elevator chutes found in Avsohmic ruins.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4133  |  127  |  281  |
+
+# Mosaic
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book is placed in front of a piece of gray glazed terracotta, presumably describing some kind of Sasquatch in Drehmal mythology.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4138  |  127  |  281  |
+
+# Alchemy Supplies for The Great Work
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book is found before a brewing stand, rotting flesh, redstone dust, and a carnelian fungus.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4134  |  127  |  285  |
+
+# Rhaveloth Rubble
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book is found in front of a pile of blackstone.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4143  |  127  |  279  |
+
+# Amethyst Cluster
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book is found in front of an amethyst cluster.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4138  |  127  |  277  |
+
+# Heartwood Saplings
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book lies between two saplings: a potted jungle sapling on the left, and a potted dark oak sapling on the right. This establishes that the [[South Heartwood]], pre-Desolation, was more of a jungle biome than a dark forest like the North.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4140  |  127  |  285  |
+
+# Early Holotext Prototype
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book is found beside a sandstone wall and a piece of green concrete, which projects a crude version of holotext when stood upon. This is a reference to the writing system of the Nomai in Outer Wilds, as well as the holotexts found throughout Drehmal.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4143  |  127  |  291  |
+
+# Anti-Gravity Pillar
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book is found in front of two quartz pillars over a bottom-slab and below a top-slab, seemingly levitating.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4133  |  127  |  291  |
+
+# Kiln Ceiling Tile
+
+One of the nine unnamed books at the Timberhearth Observatory and Museum in [[Spearhead Forest]]. Each of the nine books is placed on a lectern and describes a nearby exhibit, typically of Avsohmic-era technology. This book is found before a singular quartz block and prismarine brick slab.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4145  |  127  |  283  |
+
+# Torn History Tome
+
+This book can be found on a lectern in [[Ancehl Castle]].The text is concerned with the history of the castle. It is one of three books in the room with the "Dusty Memo," which hints at a puzzle involving the books, in which each of the books must be turned to the page that contains their respective passage in the memo.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1523  |  141  | -1975 |
+
+# Transcription of Artifact CXE-445
+
+This book can be found in a chest at the Insohmic Research Center in the [[North Heartwood]]. It is a transcription of an audio log recovered from a battlefield, suggesting that the soldiers were wiped out by some kind of "worm" and turned into "perfectly circular holes."
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1980  |  72   | 1502  |
+
+# Travels of Captain Ihb, Volume I
+
+This book can be found on a lectern on the westward bridge from the center island of [[Av'Sal]]. It is the first in the "Travels of Captain Ihb" series spread throughout the world, written by [[Devro Ihb]], and tells the tale of his origin and his clash with other pirates in [[Palisades Heath]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -261  |  88   | 1624  |
+
+# Travels of Captain Ihb, Volume II
+
+This book can be found on a lectern in [[New Elvett]]. It is the second book in the "Travels of Captain Ihb" series spread throughout the world, and contains Ihb's journey to the island of [[Sahd]] in the far southeast.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3182 |  63   | 1264  |
+
+# Travels of Captain Ihb, Volume III
+
+This book can be found on a lectern atop a treehouse in the northern [[Black Jungle|The Black Jungle]]. It is the third installation in the "Travels of Captain Ihb" series, and tells the tale of Ihb's journey north to the [[Island of Dusk]] and [[Island of Dawn]], in search of [[Xor'Huul]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4566  |  138  | 2723  |
+
+# Tree Shrine Note
+
+This book can be found in a chest at the [[Kiln of Virtuo]]. It refers to the gigantic pink-leaved tree in the southeast portion of the island, highly reminiscent of those from [[Sahd]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3335  |  77   | 3437  |
+
+# Troubles of Arawehn Anyr
+
+This book can be found on a lectern in the pyramid at [[Sal'Anyr]]. It is written by a sibling of future Emperor [[Anyr]] shortly after their house was assigned control of the [[Anyr'Nogur]] region. The locals, descended from [[Casai|Casains]] who worship [[Voynahla]], hold a significant distaste for their new Avsohmic superiors, and so Arawehn decides to rename the city to Sal'Anyr and convert the pyramid to the Anyr family mausoleum to encourage assimilation.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -3447 |  140  | 2230  |
+
+# Unholy Ritual of Stone
+
+This book can be found on a lectern in the ruins of [[Xor'Huul]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -1275 |  47   | -4063 |
+
+# Uninvited Guests
+
+This book can be found on a lectern in [[Hevhlak]]. It contains a story told by the Wingmaker Arjen, warning the residents of Hevhlak about [[Tethlaen]] and assuring them that the Wingmakers have renounced him.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2205  |  69   |  181  |
+
+# Virmari
+
+This untitled book can be found on a lectern in what looks to be a ruined chapel between the [[Grand Pike Canyon]] and [[Spearhead Forest]] regions, providing insight as to the process of ascension to the status of [[Virmari]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4473  |  72   | -305  |
+
+# Barhvama Doh
+
+The untitled book can be found in the [[Faehrcyle]] region on a lectern under a white shelter.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1851  |  117  | -3154 |
+
+# symmetry
+
+These four identical untitled books can be found on lecterns in the [[Faehrcyle]] region, sitting on top of the ice and beneath a large quartz structure. Their text contains the words "symmetrysymmetry" repeated for 25 pages, followed by "asymmetryasymmetry" repeated for another 25 pages.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3851  |  64   | -3085 |
+| 3852  |  64   | -3084 |
+| 3853  |  64   | -3085 |
+| 3852  |  64   | -3086 |
+
+# gaming
+
+## Coordinates
+
+gaming (untitled book)
+
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 2082  |  111  | -809  |
+
+# Skeleton Stand-Up
+
+This untitled book can be found on a lectern in a comedy club in [[Rhaveloth]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2879 |  64   | 5169  |
+
+# Teiruun Sensory Deprivation
+
+This untitled book can be found on a lectern in the facility beneath [[Teiruun Monastery]], recording the finding that sensory deprivation can temporarily result in some kind of augmentation. Within this room, a lever can be pulled to open the wall and reveal a wither skeleton named "The Deprived."
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 5611  |  156  | 3016  |
+
+# Seeing Things At Sea
+
+This untitled book can be found in a ship at the dock of the [[Kiln of Virtuo]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3253  |  62   | 3555  |
+
+# Warden's Journal
+
+This book can be found on a lectern in [[Shatterhorn Gulch]], in the warden's room.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 4647  |  104  | -735  |
+
+# Water-Damaged Letter
+
+This book can be found in a shulker box in the [[Exodus Vault]]. Written by a deliveryperson between Exodus and [[The Foundry]], it mentions increasing military presence within and around the vault, as well as strange amounts of technology being shipped to [[Red Dawn]] and [[Green Serpent]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2722 |  16   | 2148  |
+
+# Wealthy Citizen's Reflections
+
+This book can be found in a chest in southeastern [[Av'Sal]]. It tells the story of a wealthy Avsohmic painter, who grew up the child of a lumberjack in [[Spearhead Forest]], but was sent away to study painting after her father discovered her talent for the art. She studied in several of the finest academies in the realm, and eventually made a strong name for herself as a painter in Av'Sal. She was able to transition using Avsohmic runic tattoo technology, married, and had children, and at the time of writing, ponders if she should bring her husband and children to meet their grandfather for the first time.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+|  37   |  84   | 1664  |
+
+# Wehndan's Gratitude
+
+This book can be found in a chest in the [[Rehntite Cave]]. It provides some insight into the nature of rehntite, and its importance to the [[Avsohm|Empire of Avsohm]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 1697  |  32   | -2776 |
+
+# Welcome to Drehua Temple
+
+This book can be found in an item frame at the entrance to [[Drehua Temple]]. It is not a writable book, and gives a hint as to the accepted [[Devotion]] gifts for [[Drehmal]].
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -139  |  154  | 2846  |
+
+# Wellspring Day
+
+This book can be found on a lectern in [[Firteid]] library. It describes the regional holiday of Wellspring Day, from the traditional rituals performed on the day to the performances, foods, and cultural exchanges that came to be added to its festivities.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3997  |  82   | 3449  |
+
+# What Lies Beyond the Veil?
+
+This book can be found in an item frame in the center of [[Mohta]], containing a meditation on the nature of outer space in Drehmal, what lies beyond the Veil that prevents observation beyond the moons of the realm.
+
+## Coordinates
+| **X** | **Y** | **Z**  |
+| :---: | :---: | :----: |
+|  0.5  |  72   | 5280.5 |
+
+# Wisewoman's Journal
+
+This book can be found in a chest atop Mt. Mekta, in the northeastern area of the [[Merijool]] region. It appears to have been written on the day of Avsohm's fall.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -937  |  204  | -1684 |
+
+# Woes of a Botanist
+
+This book can be found on a lectern in [[Firteid]]. It contains the writing of a frustrated botanist, upset at the fact that every plant in their garden seems to have been planted in the wrong location.
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| 3929  |  89   | 3510  |
+
+# Youngster's Journal
+
+This book can be found in an item frame in the "Akhlo'Aroma" building outside the [[Kiln of Virtuo]].
+
+## Coordinates
+| **X**  | **Y** | **Z**  |
+| :----: | :---: | :----: |
+| 3311.5 |  82   | 3406.5 |
+
+# lanruoJ
+
+This book can be found in a chest in [[Rhaveloth]]. With the text reversed, it reads: "Why is nothing working, why why why. Every day I wake up."
+
+## Coordinates
+| **X** | **Y** | **Z** |
+| :---: | :---: | :---: |
+| -2866 |  77   | 5267  |
+
+# END

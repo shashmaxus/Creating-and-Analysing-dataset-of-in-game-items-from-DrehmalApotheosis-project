@@ -1,0 +1,276 @@
+# Legendary Item
+
+### Aeongale
+
+| **Base Item**   | Netherite Leggings                                           |
+| **Stats (Legs)**              | -10 Max Health (-5 Hearts) <br> +0.02 Movement Speed <br> +6 Armor  <br> +1 Armor Toughness      |
+| **Enchantments**              | N/A |
+| **Ability**                   | **Guided by Fate**: "*When at full HP, the wearer's perception quickens, slowing nearby projectiles and hostile entities.*" |
+| **Lore**                      | Prior to the Divine Schism, La'Tehrmari were largely ascended because of their friendship with Aspects. Their mortal Ro'Tehrmari children were not as favored. But there was one notable exception: Dragonrider Oriann, the only being ever to understand Rihelma. The Star-Rise Drake crafted this armor for her beloved, and laid it in a crystalline tomb after Oriann's natural death. |
+| **Obtain**                    | At the end of the [[Augural Tangle]].   | 
+
+**Coordinates:** (1269, 53, 1199)
+
+### AvPOD (Avsohmic Playback Organizer Device)
+
+| **Ability**                   | **Music Player**: "*Records music as you explore. Right-click to see and play the many songs of Drehmal.*"
+| **Lore**                      | Under Avsohmic rule, leisure was a privilege afforded only to the wealthy and powerful. This strange artifact passed its way through many opulent hands before ending up in yours. |
+| **Obtain**                    | Located at the Lord Magister's Residence, atop the arch overlooking [[Tharxax City]].   |
+
+**Coordinates:** (-2113, 119, 3582)
+
+### Avsohm'Kohl
+
+| **Base Item**   | Elytra                                           |
+| **Enchantments**              | Unbreaking IV |
+| **Ability**                   | **Technological Wings**: "*Tap jump while falling to slowly glide forward or down.*" |
+| **Lore**                      | A strange technological artifact gifted by avSYS, constructed by the brilliant scientists housed here thousands of years ago. Despite the cutting edge technology used in its construction, its weaknesses are hard to ignore, mainly being prone to combustion and an aversion to water-based magics. |
+| **Obtain**                    | At the top of the tallest domed building in [[Sal'Mevir]].  |  
+
+### Crystal Digging Claws
+
+| **Base Item**   | Diamond Showel                                           |
+| **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> +0.01 Movement Speed <br> 2 Attack Damage <br> 4.5 Attack Speed            |
+| **Enchantments**              | Efficiency VIII <br> Unbreaking IV |
+| **Ability**                   | **Runic Magnet**: "*Nearby items are attracted to the wielder.*" |
+| **Lore**                      | Though very few have made their home on the isolated Islands of Dusk and Dawn, they are the sole producer of mendarum crystals, which are second in potentia only to rehntite among all minerals. This claw was designed by Insohmic artificers to efficiently dig around crystals for easier extraction. |
+| **Obtain**                    | Found in a large mine on the eastern side of the [[Island of Dusk]].   |
+
+**Coordinates:** (-1874, 47, -3805)
+
+### Emperor Anyr's Scepter
+
+| **Base Item**   | Golden sword                                           |
+| **Stats (Main Hand)**         | +6 Max Health (+3 Hearts) <br> 11 Attack Damage <br> 1.3 Attack Speed            |
+| **Enchantments**              | Unbreaking X |
+| **Ability**                   | **Final Tenacity**: "*At 20% HP, the wielder enters an enhanced, but precarious state. Killing an enemy in this period will heal the wielder, but failing to do so will result in instant death. Cooldown refreshes at full health..*"[^1] |
+| **Lore**                      | Before Anyr was Emperor, he was a successful military general. Thus, even apparently ceremonial items he carried contained powerful means of self-defense. Like his elaborate mausoleum, however, this scepter was discarded when it was no longer needed. |
+| **Obtain**                    | Located deep within the large pyramid at [[Sal'Anyr]].   |
+
+**Coordinates:** (-3437, 133, 2215)
+
+### Eyebiter
+
+| **Base Item**   | Shield                                           |
+| **Stats (Off-Hand)**          | +15% Knockback Resistance <br> +2 Armor <br> +1 Armor Toughness            |
+| **Enchantments**              | Unbreaking IV |
+| **Ability**                   | **Reflective Lens**: "*Can deflect magical projectiles back at their caster. This ability must then briefly recharge.*" |
+| **Lore**                      | Maelihs took advantage of the Tidal War's chaos to infiltrate the Kiln with designs to kill Virtuo. He bested her in combat, but was unable to finish the deed. Instead, he ripped her eye from its socket and took it to Rhaveloth, where it was crafted into this wicked shield. It is seen as a portent of Mael's eventual conquest of the entire realm. |
+| **Obtain**                    | Located in the [[Sepulchral Altar]] at [[Rhaveloth]].   |
+
+**Coordinates:** (-2806, 39, 5387)
+
+### Festering Strides
+
+| **Stats (Feet)**              | +10 Max Health (+5 Hearts) <br> -40% Armor <br> -40% Armor Toughness            |
+| **Enchantments**              | Unbreaking V <br> Mending |
+| **Ability**                   | **Necrotic Vigor**: "*Wearing these boots grants the user a regenerating absorption shield.*" |
+| **Lore**                      | The warden of Shatterhorn Gulch was a terrible, sadistic man of gluttony. Some time ago a powerful arcanist was imprisoned within the tallest belfry, who, in their grand escape, cursed the warden with immortality and endless festering wounds. |
+| **Obtain**                    | Located at the top of the tallest tower of [[Shatterhorn Gulch]].   |
+
+**Coordinates:** (4651, 104, -740)
+
+### Flammer
+
+| **Base Item**   | Woosen Pickaxe                                           |
+| **Stats (Main Hand)**         | 8 Attack Damage <br> 1.2 Attack Speed         |
+| **Enchantments**              | Knockback I <br> Fire Aspect I <br> Unbreaking IV |
+| **Ability**                   | **Excavation Torch**: "*This hammer mines multiple blocks in one swing.*" |
+| **Lore**                      | Mael's generals have occupied Ebonrun for over a century, forcing its Drehmari to work long hours in mines and quarries. The most trusted are allowed to test Red Dawn's experimental mining technology. |
+| **Obtain**                    | Located in a deep mineshaft at [[Mt. Ebonfire]].   |
+
+**Coordinates:** (-3123, 110, 460)
+
+### The Frostfang
+
+| **Base Item**   | Diamond Sword                                           |
+| **Stats (Main Hand)**         | -6 Max Health (-3 Hearts) <br> +0.02 Movement Speed <br> 7 Attack Damage <br> 2.2 Attack Speed         |
+| **Enchantments**              | Bane of Arthropods IV |
+| **Ability**                   | **Tempest's Grasp**: "*Freezes mobs for a short time on your first melee hit.*" |
+| **Lore**                      | When the Avsohmic Empire first began their Faehrcyle mining operation, the Frostfang Tribes were displeased. Tensions grew and culminated in Homli Tahsgan, ruler of the tribes, freezing over the entire north in what became known as the Frostfang Catastrophe. Nowadays, the Tribe has mostly disbanded, spreading to nearby regions to separate themselves from it. |
+| **Obtain**                    | Located at the [[Grave of Frost]] in southern [[Faehrcyle]].   |
+
+**Coordinates:** (2291, 40, -2959)
+
+### The Heartaxe
+
+| **Base Item**   | Diamond Axe                                           |
+| **Stats (Main Hand)**         | 40% Knockback Resistance <br> -0.02 Movement Speed <br> 13 Attack Damage <br> 0.8 Attack Speed         |
+| **Enchantments**              | Unbreaking III |
+| **Ability**                   | **Lumberlust**: "*Breaking logs grants haste, stacks up to 4 times.*" |
+| **Lore**                      | The Heartwood has always been incredibly difficult to live in because of the rapid growth rate of the flora in the region. Roots, vines and weeds completely overrun anything that is built within the forest. This axe was made by a fool who believed they could single-handedly stop the growth. |
+| **Obtain**                    | In a small ruin in the [[Underwood]], a part of the [[North Heartwood]] accessed along the eastern coast of the Mouth of Drehmal.   |
+
+**Coordinates:** (974, 68, 2732)
+
+### Hovadchear's Greathammer
+
+| **Base Item**   | Diamond Pickaxe                                           |
+| **Stats (Main Hand)**         | +16 Max Health (+8 Max Hearts) <br> 100% Knockback Resistance <br> -0.03 Movement Speed <br> 20 Attack Damage <br> 0.45 Attack Speed         |
+| **Enchantments**              | Unbreaking IV |
+| **Ability**                   | **Unrelenting Shatter**: "*Shatters enemy armor, knockback resistance, and increases all damage on fully charged critical strikes.*" |
+| **Lore**                      | Hovadchear Myrik, one of the founders of the Order of Insohm, was a master architect. Towards the end of his life he valued transparency above all else, which did not coincide with the Insohmic Council's motives. |
+| **Obtain**                    | In a small building at the crater of [[Castle Hovadchear]], in the far southwest of the [[Spearhead Forest]] region.   |
+
+**Coordinates:** (3219, 83, 1743)
+
+### Masayoshi
+
+| **Base Item**   | Iron Sword                                           |
+| **Stats (Main Hand)**         | +0.02 Movement Speed <br> 13 Attack Damage <br> 2 Attack Speed         |
+| **Enchantments**              | Unbreaking I |
+| **Ability**                   | **Bloodletting**: "*Every hit with this sword deals half a heart of damage to you.*" |
+| **Lore**                      | The Tide Queen was born with unlimited potentia, granting her the ability to regenerate decaying cells within living bodies. A master artisan from a land she erased from history crafted this bloodthirsty blade for her, and she used its strengths without its drawbacks to rule for thousands of years. |
+| **Obtain**                    | In a cavern beneath the Tidal Palace in [[Firteid]].   |
+
+**Coordinates:** (3735, 26, 3439)
+
+### One Thousand Scars
+
+| **Base Item**   | Stone Sword                                           |
+| **Stats (Main Hand)**         | -0.05 Movement Speed <br> 26 Attack Damage <br> 0.35 Attack Speed         |
+| **Enchantments**              | Sweeping Edge I |
+| **Ability**                   | **Spectra Blade**: "*Fully-charged attacks from this sword cause an explosion of negative energy centered around the target.*" |
+| **Lore**                      | The First Avihm is shrouded in mystery to most living today, as the land itself was largely destroyed by the Felling of the Primal Tree. Yet, even after Drehmal's reforging, traces remain. This ancient greatsword yearns for its long-lost partner. |
+| **Obtain**                    | In a cavern beneath [[Castle Scarstone]], in the mountains northeast of [[Gozak]].   |  
+
+**Coordinates:** (2541, 48, 2154)
+
+### Orchidaceae
+
+| **Base Item**   | Diamond Sword                                          |
+| **Stats (Main Hand)**         | -2 Max Health (-1 Heart) <br> 6 Attack Damage <br> 1.5 Attack Speed         |
+| **Enchantments**              | Looting IV <br> Unbreaking III |
+| **Ability**                   | **Exhumation**: "*Killing an enemy grants bonus experience.*" |
+| **Lore**                      | Alchemy as modern practitioners know it was born in the lavish halls of the original Ancehl Castle. Although initially bound by a strict code of ethics, disagreements about those limits led to infighting and societal collapse. From the ashes, a new order arose which renounced all moral boundaries. |
+| **Obtain**                    | In the crypts beneath [[Ancehl Castle]] in northwest [[Akhlo'Rohma]].   |
+
+**Coordinates:** (1477, 101, -1956)
+
+### Osteogenesis
+
+| **Base Item**   | Iron Sword                                           |
+| **Stats (Main Hand)**         | 4 Attack Damage <br> 0.6 Attack Speed         |
+| **Enchantments**              | Smite II <br> Unbreaking II |
+| **Ability**                   | **Cleaving Maelstrom**: "*After every third fully-charged strike, perform a circular chain slash that stuns undead and launches enemies. Especially effective against skeletal enemies.*" |
+| **Lore**                      | During the Dune Wars, Mael's Skullbeasts were a terrifying threat that could level a city in minutes. This chain-whip excretes a red bone-melting alchemical substance designed specifically to counter one. Regrettably, its inventor never got a chance to test it. |
+| **Obtain**                    | In a hidden room behind a wall in [[Fort Nimahj]].   |
+
+**Coordinates:** (-1744, 118, 1882)
+
+### Parenchyma
+
+| **Base Item**   | Golden Chesplate                                           |
+| **Stats (Body)**              | +5 Armor         |
+| **Enchantments**              | Unbreaking X <br> Mending |
+| **Ability**                   | **Neoplasia**: "*When the wearer defeats an enemy, they briefly regenerate HP.*" |
+| **Lore**                      | A gift from an ancient traveler crafted by the hands of nature. It is made of roots that resemble Drehmal's flora but contains remnants of places beyond. |
+| **Obtain**                    | Beneath the Primal Sapling in the [[Glade of the Giant]].   |
+
+**Coordinates:** (-1087, 26, -277)
+
+### Peace Treaty
+
+| **Base Item**   | Iron Sword                                           |
+| **Stats (Main Hand)**         | +0.01 Movement Speed <br> 7 Attack Damage <br> 1.3 Attack Speed         |
+| **Enchantments**              | Knockback V <br> Unbreaking VII |
+| **Ability**                   | **Diplomatic Immunity**: "*Taking damage from an enemy grants a temporary speed and armor boost.*" |
+| **Lore**                      | Mossfield was the capital city of the Order of Insohm, the union that binded together the nations of the Third Avihm. Their diplomatic success was how they grew to control most of the continent. |
+| **Obtain**                    | At the [[Insohmic Library|Insohmic Library Tower]].   |
+
+**Coordinates:** (4565, 106, 1587)
+
+### Penumbra
+
+| **Base Item**   | Chainmail Leggings                                           |
+| **Stats (Legs)**              | -2 Max Health (-1 Heart) <br> +6 Armor <br> +2 Armor Toughness   |
+| **Additional Stats (Night)**  | +0.015 Movement Speed <br> +20% Attack Damage <br> +10% Attack Speed |
+| **Enchantments**              | N/A |
+| **Ability**                   | **Nightwalker**: "*Gain increased movement speed, attack damage, and attack speed when night falls.*" |
+| **Lore**                      | The Nightwalkers were the feared enforcers of the Second Tharhan Empresses. After the Six Kingdoms fell to infighting and Casain conquest, all were shocked when black-clad legions rode out from below to seize power. Ironically, resigned Tharhan lords stopped locking their doors at night, because no lock could hope to withstand a single Nightwalker's fury. |
+| **Obtain**                    | In [[Caer Adacia]].   |  
+
+**Coordinates:** (-1287, 61, 460)
+
+### Pure Corruption
+
+| **Base Item**   | Diamond Helmet                                           |
+| **Stats (Head)**              | +50% Max Health <br> +50% Movement Speed <br> +50% Attack Damage <br> +50% Attack Speed      |
+| **Enchantments**              | N/A |
+| **Ability**                   | **Rotten Core**: "*This helmet gives the wearer lingering hunger and poison effects.*" |
+| **Lore**                      | Followers of Virtuo all strived to undergo ascension and become Virmari, but only a select few were chosen each year. A group of fanatics tried to find alternate ways, but their efforts only ended in chaos and corruption. |
+| **Obtain**                    | Hidden underneath [[Teiruun Monastery]].   |  
+
+**Coordinates:** (5600, 156, 3011)
+
+### Rehntite Plate Mail
+
+| **Base Item**   | Netherite Chesplate                                           |
+| **Stats (Body)**              | +20 Max Health (+10 Hearts) <br> 100% Knockback Resistance <br> -50% Movement Speed <br> -50% Attack Damage <br> -50% Attack Speed <br> +10 Armor <br> +5 Armor Toughness        |
+| **Enchantments**              | Unbreaking X  |
+| **Ability**                   | **Catalytic Savior**: "*When at low health, release an explosion which damages and knocks back enemies.*" |
+| **Lore**                      | It is no exaggeration to say that rehntite is the single most important material in the history of the realm. Though incredibly rare, it has potentia equivalent to the strongest souls. This armor was forged from rehntite in a mine at its largest known reserve. Its location was lost after Avsohm's fall. |
+| **Obtain**                    | In the [[Rehntite Cave]] in northwestern [[Akhlo'Rohma]].   | 
+
+**Coordinates:** (1683, 31, -2720)
+
+### Tul'Vohaln
+
+| **Base Item**   | Iron Helmet                                           |
+| **Stats (Head)**              | -0.015 Movement Speed <br> +2 Armor         |
+| **Enchantments**              | Projectile Protection II <br> Unbreaking II |
+| **Ability**                   | **Eyes Unclouded**: "*Wearing this helmet allows the wielder to detect enemies through walls.*" |
+| **Lore**                      | Poa received a vision in crystal of a purple orb called "Lo'Veruhkt" that spun rightward and occasionally gleamed with specks of golden light. Her ancestors developed the Lens of Insight to peer through the plane and locate it. Similar technology allows this helm's wearer limited perception beyond solids. |
+| **Obtain**                    | At the [[Altar of Insight]] in [[Veruhkt Plateau]].   |    
+
+**Coordinates:** (4098, 108, -1526)
+
+### Ultva's Bowblade
+
+| **Base Item**   | Bow                                           |
+| **Stats (Main Hand)**         | +0.02 Movement Speed <br> 7 Attack Damage <br> 1.6 Attack Speed         |
+| **Enchantments**              | Sharpness II <br> Unbreaking IV |
+| **Ability**                   | **Reversal**: "*On a melee kill, grants increased arrow damage and unlimited piercing for a short time.*" |
+| **Lore**                      | When faced with retaliation from Maelihs, the Order of Insohm began a research campaign into the powerful energy source that was utilized by the ancient Avsohmic Empire to fuel magic weaponry. Ultva Utofal, one of Insohm's founders, went insane in one of Avsohm's vaults searching for answers. |
+| **Obtain**                    | In the [[Avsohmic Vault]], off the western coast of [[Casai]].   |  
+
+**Coordinates:** (-3696, 76, -1199)
+
+### Voidtear Dagger
+
+| **Base Item**   | Iron Sword                                           |
+| **Stats (Main Hand)**         | +0.015 Movement Speed <br> 5 Attack Damage <br> 2.3 Attack Speed         |
+| **Enchantments**              | N/A |
+| **Ability**                   | **Null Cloak**: "*Holding this weapon grants the wearer invisibility and makes nearby mobs much less aggressive.*" |
+| **Lore**                      | Blue Exodus was so adept at hiding secrets, no one knew they employed an order of assassins until Insohmic archaeologists discovered one of these ingenious runic daggers nearly a millennium after every member had died. |
+| **Obtain**                    | In the [[Exodus Citadel]].   |    
+
+**Coordinates:** (-2610, 70, 2295)
+
+### X-35 Equine Augmentation Assembly (Warp Horse)
+
+| **Base Item**   | Horse Armor and Reciever                                          |
+| **Stats (Applied to Horse)**  | +0.1 Speed <br> +0.1 Jump Strength <br> +10 Max Health (+5 Hearts) |
+| **Enchantments**              | Feather Falling IV |
+| **Ability**                   | **Terminus Recall**: "*Links horse to Exodus database, allowing it to be summoned with a WarpHorse Receiver.*" |
+| **Lore**                      | Blue Exodus invested heavily into biomechanical enhancement projects, with varying degrees of success. |
+| **Obtain**                    | In the [[Exodus Vault]]'s southern garage.  |
+
+| **Ability**                   | **Terminus Fetch**: "*Hold crouch and right-click to access WarpHorse database. Right-click to summon favorited horse.*" |
+| **Lore**                      | An ancient piece of military tech that somehow remains functional. |
+| **Obtain**                    | In the [[Exodus Vault]]'s southern garage.  |
+
+**Coordinates:** (-2839, 14, 2259)
+
+### Whispersong
+
+| **Base Item**   | Bow                                           |
+| **Stats (Main Hand)**         | -60% Max Health <br> -60% Movement Speed      |
+| **Enchantments**              | Power VII |
+| **Ability**                   | **Patience and Time**: "*Holding this bow grants the wielder invisibility.*" |
+| **Lore**                      | The Order of Insohm was known for their diplomatic prowess. Despite this, the Grand Councillors and other politicians of the Order had many enemies and needed constant protection. This bow was the weapon of the most elite of these guards: the Whispers. |
+| **Obtain**                    | In the [[ICS Arbiter]].   |
+
+**Coordinates:** (-478, 97, -1889)
+
+### END
